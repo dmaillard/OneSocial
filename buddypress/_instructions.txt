@@ -37,4 +37,4 @@ folder structure exactly. Again, please do this in a child theme. It will
 make your life so much easier when you need to update the BuddyBoss theme
 later on, as your edits will be cleanly separated from the parent theme.
 
-Read about child themes here: http://www.buddyboss.com/child-themes/
+Read about child themes here: https://www.buddyboss.com/child-themes/

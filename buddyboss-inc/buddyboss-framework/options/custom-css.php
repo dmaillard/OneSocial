@@ -30,6 +30,7 @@ if ( !function_exists( 'boss_generate_option_css' ) ) {
 			#buddypress div.generic-button a,
 			#secondary div.generic-button a,
 			#buddypress .comment-reply-link,
+			.select2-container--default .select2-results__option--highlighted[aria-selected],
 			.entry-header .entry-title a.button,
 			a.bp-title-button,
 			#search-members-form > label:after,
@@ -71,6 +72,7 @@ if ( !function_exists( 'boss_generate_option_css' ) ) {
 			.woocommerce ul.products li.product .price,
 			.woocommerce div.product p.price,
 			.woocommerce div.product span.price,
+			.woocommerce [type='checkbox']:checked + span,
 			.header-account-login .pop .boss-logout,
 			.header-account-login .pop a:hover,
 			.bboss_ajax_search_item .item .item-title,
@@ -264,6 +266,12 @@ if ( !function_exists( 'boss_generate_option_css' ) ) {
 				-webkit-box-shadow: 0px 0px 0px 2px <?php echo $accent_color; ?>;
 				-moz-box-shadow: 0px 0px 0px 2px <?php echo $accent_color; ?>;
 				box-shadow: 0px 0px 0px 2px <?php echo $accent_color; ?>;
+			}
+
+			.woocommerce-checkout [type='checkbox']:checked + span:before {
+				-webkit-box-shadow: 0px 0px 0px 1px <?php echo $accent_color; ?>;
+				-moz-box-shadow: 0px 0px 0px 1px <?php echo $accent_color; ?>;
+				box-shadow: 0px 0px 0px 1px <?php echo $accent_color; ?>;
 			}
 
 			/********** Desktop  *************/

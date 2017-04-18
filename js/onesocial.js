@@ -19,16 +19,16 @@
 var jq = $ = jQuery;
 
 /*--------------------------------------------------------------------------------------------------------
-Group Load Scroll
+ Group Load Scroll
  --------------------------------------------------------------------------------------------------------*/
-$(document).ready(function($) {
-    $( '.single-item #buddypress' ).attr( 'style', '');
-    $body = $('body');
+$( document ).ready( function ( $ ) {
+    $( '.single-item #buddypress' ).attr( 'style', '' );
+    $body = $( 'body' );
     if ( $body.hasClass( 'single-item' ) && $body.hasClass( 'groups' ) && $body.scrollTop() == 0 && $( '#buddypress' ).data( 'cover-size' ) !== 200 && !$( '#buddypress' ).data( 'page-refreshed' ) ) {
 
         $( "html,body" ).scrollTop( 260 );
     }
-});
+} );
 /**
  * 2. Main BuddyBoss Class
  *
@@ -599,7 +599,9 @@ var BuddyBossMain = ( function ( $, window, undefined ) {
 
         if ( !is_mobile ) {
             $( "body:not(.settings) #item-nav" ).find( "#nav-bar-filter" ).jRMenuMore( 60 );
-            $( "#site-navigation .nav-menu" ).jRMenuMore( 120 );
+            $datawidthFix = parseInt( $( '#site-navigation' ).attr( 'data-widthfix' ) );
+            $widthFix = ( isNaN( $datawidthFix ) ) ? 120 : $datawidthFix;
+            $( '#site-navigation .nav-menu' ).jRMenuMore( $widthFix );
         }
 
         /*------------------------------------------------------------------------------------------------------
@@ -925,7 +927,7 @@ var BuddyBossMain = ( function ( $, window, undefined ) {
                 buttons_width = buttons_width + $( this ).width();
             } );
 
-            $search_form.width( $( '.header-wrapper' ).width() - 180 - buttons_width );
+            $search_form.width( $( '.header-wrapper' ).width() - $( '#logo-area' ).width() - buttons_width );
         }
 
         search_width();
@@ -1037,8 +1039,8 @@ var BuddyBossMain = ( function ( $, window, undefined ) {
         /*--------------------------------------------------------------------------------------------------------
          3.16 - Profile Settings Radio Buttons
          --------------------------------------------------------------------------------------------------------*/
-        $( '#buddypress table.notification-settings .yes input[type="radio"]' ).after( '<label>'+translation.yes+'</label>' );
-        $( '#buddypress table.notification-settings .no input[type="radio"]' ).after( '<label>'+translation.no+'</label>' );
+        $( '#buddypress table.notification-settings .yes input[type="radio"]' ).after( '<label>' + translation.yes + '</label>' );
+        $( '#buddypress table.notification-settings .no input[type="radio"]' ).after( '<label>' + translation.no + '</label>' );
 
         /*--------------------------------------------------------------------------------------------------------
          3.17 - 404 carousel posts
@@ -1266,7 +1268,7 @@ var BuddyBossMain = ( function ( $, window, undefined ) {
 
         $( document ).ajaxSuccess( function () {
             initCheckboxes();
-        });
+        } );
 
 //        $('#buddypress table.notification-settings td input').after('<label></label>');
         $( '#buddypress table.notifications input' ).after( '<strong></strong>' );
@@ -1293,30 +1295,30 @@ var BuddyBossMain = ( function ( $, window, undefined ) {
          3.28 - BuddyPress Group Email Subscription
          --------------------------------------------------------------------------------------------------------*/
 
-        $( '#item-meta .group-subscription-options-link' ).on("click", function() {
-            stheid = $(this).attr('id').split('-');
+        $( '#item-meta .group-subscription-options-link' ).on( "click", function () {
+            stheid = $( this ).attr( 'id' ).split( '-' );
             group_id = stheid[1];
             $( '.group-subscription-options' ).slideToggle();
-        });
+        } );
 
-        $( '#item-meta .group-subscription-close' ).on("click", function() {
-            stheid = $(this).attr('id').split('-');
+        $( '#item-meta .group-subscription-close' ).on( "click", function () {
+            stheid = $( this ).attr( 'id' ).split( '-' );
             group_id = stheid[1];
             $( '.group-subscription-options' ).slideToggle();
-        });
+        } );
 
         /*--------------------------------------------------------------------------------------------------------
          3.29 - Cart Dropdown
          --------------------------------------------------------------------------------------------------------*/
 
-        $(document).on('change','#calc_shipping_country', function(){
-            var $field = $('#calc_shipping_state_field');
-            if($field.find('input').length > 0){
-                $field.addClass('plain-input');
+        $( document ).on( 'change', '#calc_shipping_country', function () {
+            var $field = $( '#calc_shipping_state_field' );
+            if ( $field.find( 'input' ).length > 0 ) {
+                $field.addClass( 'plain-input' );
             } else {
-                $field.removeClass('plain-input');
+                $field.removeClass( 'plain-input' );
             }
-        });
+        } );
 
         /*------------------------------------------------------------------------------------------------------
          Heartbeat functions

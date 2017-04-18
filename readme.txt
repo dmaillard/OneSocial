@@ -21,6 +21,9 @@ OneSocial is a responsive WordPress/BuddyPress theme that focuses on simplicity 
 
 == Changelog ==
 
+= 1.2.1 =
+* Fix - Select2 fixes for WooCommerce 3.0
+
 = 1.2.0 =
 * Fix - RTL issues
 * Fix - Compatibility issue with BuddyPress Group Email Subscription plugin

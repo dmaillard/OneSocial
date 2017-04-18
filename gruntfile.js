@@ -158,7 +158,7 @@ module.exports = function ( grunt ) {
                         poedit: true, // Includes common Poedit headers.
                         'Last-Translator': 'BuddyBoss <support@buddyboss.com>',
                         'Language-Team': 'BuddyBoss <support@buddyboss.com>',
-                        'report-msgid-bugs-to': 'http://www.buddyboss.com/contact/',
+                        'report-msgid-bugs-to': 'https://www.buddyboss.com/contact/',
                         'x-poedit-keywordslist': true // Include a list of all possible gettext functions.
                     },
                     type: 'wp-theme', // Type of project (wp-plugin or wp-theme).

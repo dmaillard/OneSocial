@@ -1017,7 +1017,7 @@ if ( !class_exists( 'onesocial_Redux_Framework_config' ) ) {
 					array(
 						'id'		 => 'boss_copyright',
 						'type'		 => 'editor',
-						'default'	 => '&copy; ' . date( 'Y' ) . ' - OneSocial <span class="boss-credit">&middot; Powered by <a href="http://www.buddyboss.com" title="BuddyPress themes" target="_blank">BuddyBoss</a></span>',
+						'default'	 => '&copy; ' . date( 'Y' ) . ' - OneSocial <span class="boss-credit">&middot; Powered by <a href="https://www.buddyboss.com" title="BuddyPress themes" target="_blank">BuddyBoss</a></span>',
 						'args'		 => array(
 							'teeny'			 => true,
 							'media_buttons'	 => false,

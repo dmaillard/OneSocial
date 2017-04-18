@@ -19,11 +19,10 @@ if ( !function_exists( 'boss_support_tab_content' ) ) {
 					<h3>Need more help?</h3>
 
 					<ul>
-						<li><a href="http://www.buddyboss.com/faq/" target="_blank">Frequently Asked Questions</a></li>
-						<li><a href="http://www.buddyboss.com/support-forums/" target="_blank">Support Forums</a></li>
-						<li><a href="http://www.buddyboss.com/release-notes/" target="_blank">Current Version &amp; Release Notes</a></li>
-						<li><a href="http://www.buddyboss.com/updating/" target="_blank">How to Update</a></li>
-						<li><a href="http://www.buddyboss.com/child-themes/" target="_blank">Guide to Child Themes</a></li>
+						<li><a href="https://www.buddyboss.com/faq/" target="_blank">Frequently Asked Questions</a></li>
+						<li><a href="https://www.buddyboss.com/release-notes/" target="_blank">Current Version &amp; Release Notes</a></li>
+						<li><a href="https://www.buddyboss.com/updating/" target="_blank">How to Update</a></li>
+						<li><a href="https://www.buddyboss.com/child-themes/" target="_blank">Guide to Child Themes</a></li>
 					</ul>
 
 				</div>

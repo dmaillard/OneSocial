@@ -5187,6 +5187,13 @@ body #buddypress div.activity-comments form#frm_buddypress-edit-activity .ac-tex
     margin: 0 10px 10px 0;
 }
 
+#buddypress #groups-directory-form li:nth-child(6) ~ #groups-order-select,
+#buddypress #blogs-directory-form li:nth-child(6) ~ #blogs-order-select,
+#buddypress #members-directory-form li:nth-child(6) ~ #members-order-select {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
 #buddypress #group-create-nav .group-create {
     color: #fff;
 }
@@ -7763,6 +7770,17 @@ body.activity-permalink .entry-header {
 
 .sap-post-meta { overflow: hidden; }
 .entry-header .entry-title .post-edit-link.button { margin-left: 20px; }
+
+#sap-widget-container .category_hierarchy_ul li {
+    margin: 6px 0;
+    padding: 0 2px;
+}
+
+.category_hierarchy_ul input[type=checkbox]+label:before,
+.category_hierarchy_ul input[type=checkbox]+span:before,
+.category_hierarchy_ul input[type=checkbox]+strong:before {
+    top: 5px;
+}
 
 /*--------------------------------------------------------------
 9.5.1 - Profile Settins Page
@@ -11065,6 +11083,28 @@ html .woocommerce form .form-row textarea {
     opacity: 0;
 }
 
+.woocommerce-checkout [type='checkbox'] {
+    margin: 0;
+    opacity: 0;
+}
+
+.woocommerce-checkout [type='checkbox'] + span:before {
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 0px 1px #e1e1e1;
+    -moz-box-shadow: 0px 0px 0px 1px #e1e1e1;
+    box-shadow: 0px 0px 0px 1px #e1e1e1;
+    top: 0px;
+    left: -24px;
+    width: 18px;
+    height: 18px;
+    line-height: 1;
+}
+
+.woocommerce-checkout.woocommerce-checkout #ship-to-different-address span {
+    font-size: 16px;
+    padding-left: 16px;
+}
+
 #shipping_method li label:before {
     top: 4px;
 }
@@ -11130,7 +11170,7 @@ html .woocommerce form .form-row textarea {
 .plain-input .buddyboss-select-inner {
     height: auto;
     line-height: normal;
-    padding-right: 0; 
+    padding-right: 0;
 }
 .plain-input .buddyboss-select-inner span {
     display: none;
@@ -11138,6 +11178,144 @@ html .woocommerce form .form-row textarea {
 .plain-input .buddyboss-select-inner:after {
     display: none;
 }
+
+.wcv-form .bm-field-groups.search .control-group .select2-container-multi .select2-selections {
+    padding: 0;
+}
+
+.select2-container-multi .select2-selections .select2-search-field input {
+    font-size: 12px;
+}
+
+
+.select2-container-multi .select2-selections {
+    border: 1px solid #e1e1e1;
+    padding-right: 32px;
+    padding-left: 10px;
+    padding-top: 0;
+}
+
+.select2-container-multi .select2-selections .select2-search-choice {
+    margin-top: 14px;
+    padding-top: 2px;
+}
+
+.select2-search-choice-close {
+    top: 3px;
+}
+
+.select2-container-multi .select2-selections .select2-search-choice div {
+    font-size: 14px;
+    line-height: 1;
+}
+
+.select2-container .select2-selection,
+.select2-container .select2-selection {
+    border-radius: 0;
+    padding: 9px 20px;
+    border-color: #e1e1e1;
+}
+
+.select2-container .select2-selection>.select2-chosen,
+.select2-container .select2-selection>.select2-chosen {
+    font-weight: 300;
+}
+
+.select2-container .select2-selection .select2-selection__arrow,
+.select2-container .select2-selection .select2-selection__arrow {
+    right: 10px;
+}
+
+.select2-container .select2-selection .select2-selection__arrow b:after,
+.select2-container .select2-selection .select2-selection__arrow b:after {
+    display: none;
+}
+
+
+.select2-container-multi .select2-selections .select2-search-field input {
+    padding: 15px 15px;
+}
+
+.select2-container .select2-selection {
+    height: auto;
+    line-height: 1.2;
+    border-radius: 0;
+    line-height: 16px;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.select2-container .select2-selection .select2-selection__placeholder {
+    min-height: 1em;
+    display: inline-block;
+}
+
+html[dir=rtl] .select2-container .select2-selection {
+    padding: 15px;
+}
+
+html[dir=rtl] .select2-container .select2-selection .select2-selection__arrow {
+    border-left: none;
+    border-right: none;
+}
+
+
+.select2-drop-active {
+    border: 1px solid #e1e1e1;
+    border-radius: 0;
+}
+
+.select2-drop-active {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.select2-results__option .select2-results__option--highlighted {
+    background-color: #54ae68;
+}
+
+.select2-container .select2-selection .select2-selection__arrow {
+    background: transparent;
+    border-left: none;
+    width: 32px;
+}
+
+.select2-container.select2-container-multi.select2:after,
+.select2-container .select2-selection .select2-selection__arrow b {
+    background: none;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    background-image: none !important;
+    border-style: none;
+
+}
+
+.select2-container.select2-container-multi.select2:after,
+.select2-container .select2-selection .select2-selection__arrow b:before {
+    content: '\f078';
+    font-size: 9px;
+    position: absolute;
+    top: 50%;
+    margin-top: -6px;
+}
+
+.select2-container.select2-container-multi.select2:after {
+    right: 25px;
+}
+
+.select2-container-active .select2-selection, .select2-container-active .select2-selections {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    background-color: #fff;
+}
+
 /*--------------------------------------------------------------
 7.0 - BuddyPress Activity Plus
 --------------------------------------------------------------*/

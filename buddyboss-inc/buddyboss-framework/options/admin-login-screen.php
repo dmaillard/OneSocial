@@ -2,8 +2,19 @@
 
 function onesocial_login_fonts() {
     // FontAwesome icon fonts. If browsing on a secure connection, use HTTPS.
-	wp_register_style( 'fontawesome', "//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", false, null );
-	wp_enqueue_style( 'fontawesome' );
+	//wp_register_style( 'fontawesome', "//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", false, null );
+	//wp_enqueue_style( 'fontawesome' );
+
+	// FontAwesome icon fonts. If browsing on a secure connection, use HTTPS.
+	// We will only load if our is latest.
+	$recent_fwver	 = (isset( wp_styles()->registered[ "fontawesome" ] )) ? wp_styles()->registered[ "fontawesome" ]->ver : "0";
+	$current_fwver	 = "4.7.0";
+	if ( version_compare( $current_fwver, $recent_fwver, '>' ) ) {
+		wp_deregister_style( 'fontawesome' );
+		wp_register_style( 'fontawesome', "//maxcdn.bootstrapcdn.com/font-awesome/{$current_fwver}/css/font-awesome.min.css", false, $current_fwver );
+		wp_enqueue_style( 'fontawesome' );
+	}
+
 }
 add_action( 'login_enqueue_scripts', 'onesocial_login_fonts' );
 

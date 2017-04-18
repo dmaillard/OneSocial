@@ -196,7 +196,7 @@
 					endif;
 
 					echo '<div class="entry-meta">';
-					_e( 'Published in ', 'onesocial' );
+					_e( 'Published', 'onesocial' );
 					onesocial_entry_categories();
 					_e( ' on ', 'onesocial' );
 					onesocial_posted_on();

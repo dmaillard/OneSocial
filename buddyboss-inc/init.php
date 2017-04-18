@@ -266,17 +266,8 @@ function onesocial() {
 }
 
 /*
- * Change BuddyPress avatar widths
+ * Change BuddyPress avatar size
  */
-if ( !defined( 'BP_AVATAR_THUMB_WIDTH' ) ) {
-	define( 'BP_AVATAR_THUMB_WIDTH', 140 );
-}
-
-if ( !defined( 'BP_AVATAR_THUMB_HEIGHT' ) ) {
-	define( 'BP_AVATAR_THUMB_HEIGHT', 140 );
-}
-
-
 if ( !defined( 'BP_AVATAR_FULL_WIDTH' ) ) {
 	define( 'BP_AVATAR_FULL_WIDTH', 280 );
 }

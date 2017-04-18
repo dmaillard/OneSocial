@@ -39,6 +39,9 @@ function onesocial_setup() {
 
 	// Declare theme support for WooCommerce
 	add_theme_support( 'woocommerce' );
+	add_theme_support( 'wc-product-gallery-zoom' );
+	add_theme_support( 'wc-product-gallery-lightbox' );
+	add_theme_support( 'wc-product-gallery-slider' );
 
 	// Adds wp_nav_menu() in two locations with BuddyPress deactivated.
 	register_nav_menus( array(
@@ -3107,7 +3110,7 @@ if ( !function_exists( 'buddyboss_comment' ) ) {
 		/* translators: used between list items, there is a space after the comma */
 		$categories_list = get_the_category_list( __( ', ', 'onesocial' ) );
 		if ( $categories_list && onesocial_categorized_blog() ) {
-			print( '<span class="cat-links">' . $categories_list . '</span>' );
+			echo sprintf( '<span class="cat-links"> %s %2$s</span>', __( 'in', 'onesocial' ), $categories_list );
 		}
 	}
 
