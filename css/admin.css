@@ -1,0 +1,50 @@
+/*--------------------------------------------------------------
+This is the BuddyBoss BM Admin stylesheet.
+
+----------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 - BuddyBoss BM defaults
+--------------------------------------------------------------*/
+
+/*
+Change icon in the "Add element" content elements list
+Note: path to the icon file should be relative to the css file where you place your css rules (this file)
+*/
+.wpb-layout-element-button[data-element=slider] .vc_element-icon,
+.wpb-layout-element-button[data-element=testimonials] .vc_element-icon,
+.wpb-layout-element-button[data-element=service] .vc_element-icon,
+.wpb-layout-element-button[data-element=blog_posts] .vc_element-icon,
+.wpb-layout-element-button[data-element=blog_post] .vc_element-icon,
+.wpb-layout-element-button[data-element=featured_sellers] .vc_element-icon,
+.wpb-layout-element-button[data-element=product_feed] .vc_element-icon,
+.wpb-layout-element-button[data-element=featured_seller] .vc_element-icon,
+.wpb-layout-element-button[data-element=newsletters] .vc_element-icon,
+.wpb-layout-element-button[data-element=newest_products] .vc_element-icon,
+.wpb-layout-element-button[data-element=collections] .vc_element-icon {
+    background-image: url(../images/buddyboss_icon.png);
+}
+/*
+Change icon in the Visual Composer page schematic representation (backend).
+*/
+.wpb_slider .vc_element-icon,
+.wpb_testimonials .vc_element-icon,
+.wpb_service .vc_element-icon,
+.wpb_blog_posts .vc_element-icon,
+.wpb_blog_post .vc_element-icon,
+.wpb_featured_sellers .vc_element-icon,
+.wpb_product_feed .vc_element-icon,
+.wpb_featured_seller .vc_element-icon,
+.wpb_newsletters .vc_element-icon,
+.wpb_newest_products .vc_element-icon,
+.wpb_collections .vc_element-icon {
+    background-image: url(../images/buddyboss_icon.png);
+}
+/*
+Alternatively, if you specified class name in the "icon" attribute during the vc_map() function call, you can use this selector instead:
+".my_bartag.vc_element-icon" where my_bartag is value passed to the "icon" attribute.
+This example will change icon of your content element in both: "Add element" window and backend schematic representation, so you can use just one css rule instead.
+*/
+.icon-buddyboss.vc_element-icon {
+    background-image: url(../images/buddyboss_icon.png);
+}

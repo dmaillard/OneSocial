@@ -1,0 +1,4748 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OneSocial\n"
+"Report-Msgid-Bugs-To: http://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2016-09-03 08:31:11+00:00\n"
+"PO-Revision-Date: 2016-05-01 14:01-0400\n"
+"Last-Translator: jean-pierre michaud <nexialys@yahoo.com>\n"
+"Language-Team: jean-pierre michaud <nexialys@yahoo.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: buddyboss-inc/recommend-posts.php:478
+msgid "0"
+msgstr "0"
+
+#: 404.php:18
+msgid "404"
+msgstr "404"
+
+#: 404.php:19
+msgid ""
+"We’re sorry, We seem to have lost this page, but We don’t want to lose You."
+msgstr ""
+"Nous sommes désolés, nous semblons avoir perdu cette page, mais nous ne "
+"voulons pas vous perdre."
+
+#: 404.php:36
+msgid "Latest Articles"
+msgstr "Dernières Nouvelles"
+
+#: 404.php:68 404.php:92 buddyboss-inc/theme-functions.php:1426
+#: buddyboss-inc/vc-functions.php:381 buddyboss-inc/vc-functions.php:448
+#: buddypress-global-search/loop/bpgs_cpt-product.php:42
+#: buddypress-global-search/loop/bpgs_cpt.php:36
+#: template-parts/content-ajax.php:46 template-parts/content-ajax.php:62
+#: template-parts/content-blog.php:38
+#: template-parts/content-profile-blog.php:19
+#: template-parts/content-profile-blog.php:57
+#: template-parts/content-profile-blog.php:78 template-parts/content.php:49
+#: template-parts/content.php:81
+msgid "Permalink to %s"
+msgstr "Permalink à %s"
+
+#: 404.php:75 404.php:84 buddyboss-inc/theme-functions.php:828
+#: buddyboss-inc/theme-functions.php:2397
+#: buddyboss-inc/theme-functions.php:2826 template-parts/content.php:178
+#: template-parts/content.php:183
+msgid "View all posts by %s"
+msgstr "Voir tous les messages de %s"
+
+#. Translators: used between list items, there is a space after the comma.
+#. translators: used between list items, there is a space after the comma
+#: 404.php:82 buddyboss-inc/theme-functions.php:822
+#: buddyboss-inc/theme-functions.php:825 buddyboss-inc/theme-functions.php:3110
+msgid ", "
+msgstr ","
+
+#: 404.php:83
+msgid "In %s"
+msgstr "Dans %s"
+
+#: 404.php:84
+msgid ", by "
+msgstr ", par"
+
+#: 404.php:92 template-parts/content-ajax.php:62
+#: template-parts/content-blog.php:38
+#: template-parts/content-profile-blog.php:78 template-parts/content.php:81
+msgid "Continue reading"
+msgstr "Continuer la lecture"
+
+#: bbpress/content-single-topic.php:25
+msgid "Tagged"
+msgstr "Etiquetté"
+
+#: bbpress/form-search.php:12
+msgid "Type to search"
+msgstr "Pour rechercher"
+
+#: bbpress/form-search.php:15
+#: buddyboss-inc/buddyboss-framework/options-init.php:210
+#: template-parts/header-aside.php:53
+msgid "Search"
+msgstr "Recherche"
+
+#: bbpress/loop-replies.php:36
+msgid "Author"
+msgstr "Auteur"
+
+#: bbpress/loop-replies.php:42 buddypress/activity/index.php:79
+msgid "Posts"
+msgstr "Articles"
+
+#: bbpress/loop-replies.php:46
+msgid "Replies"
+msgstr "Réponses"
+
+#: bbpress/loop-search-reply.php:41 bbpress/loop-single-reply.php:40
+msgid "in reply to: "
+msgstr "En réponse à:"
+
+#: bbpress/loop-search-topic.php:61 bbpress/loop-single-topic.php:61
+msgid "Started by: %1$s"
+msgstr "Commencé par : %1$s"
+
+#: bbpress/loop-search-topic.php:70 bbpress/loop-single-topic.php:70
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "dans: <a href=\"%1$s\">%2$s</a>"
+
+#: bbpress/user-topics-created.php:13
+msgid "Forum Topics Started"
+msgstr "Sujets du Forum Commencés"
+
+#: bbpress/user-topics-created.php:24
+msgid "You have not created any topics."
+msgstr ""
+"Vous ne avez pas encore créé un groupe de solides pour votre Cuteslider."
+
+#: bbpress/user-topics-created.php:24
+msgid "This user has not created any topics."
+msgstr "Cet utilisateur n’a créé aucun sujet."
+
+#: bbpress.php:32 buddyboss-inc/theme-functions.php:890 image.php:93
+#: template-parts/content-page.php:19 template-parts/content.php:94
+msgid "Pages:"
+msgstr "Pages:"
+
+#: bp-user-blog/sap-blog-page.php:81 buddyboss-inc/theme-functions.php:1304
+msgid "Load More"
+msgstr "Lire la Suite"
+
+#: bp-user-blog/sap-blog-page.php:98
+msgid "Add your first."
+msgstr "Ajouter votre premier."
+
+#: bp-user-blog/sap-blog-page.php:101
+msgid "You have no drafts."
+msgstr "Vous n'avez pas de brouillon."
+
+#: bp-user-blog/sap-blog-page.php:103
+msgid "You have no posts in review."
+msgstr "Vous n'avez aucuns postes dans l'examen."
+
+#: bp-user-blog/sap-blog-page.php:105
+msgid "You have not created any posts yet. %s"
+msgstr "Vous n'avez créé aucun article. %s"
+
+#: bp-user-blog/sap-blog-page.php:109
+msgid "There are no posts by this user at the moment. Please check back later!"
+msgstr ""
+"À l'heure actuelle, il n'y a aucun messages de cet utilisateur. S'il vous "
+"plaît revenez plus tard !"
+
+#: buddyboss-inbox/drafts.php:18
+msgid "Select all"
+msgstr "Sélectionner tout"
+
+#: buddyboss-inbox/drafts.php:19
+#: buddyboss-inbox/members/single/messages/messages-loop.php:20
+#: buddypress/members/single/messages/messages-loop.php:20
+msgid "From"
+msgstr "De"
+
+#: buddyboss-inbox/drafts.php:20
+#: buddyboss-inbox/members/single/messages/compose.php:34
+#: buddyboss-inbox/members/single/messages/messages-loop.php:21
+#: buddypress/members/single/messages/compose.php:17
+#: buddypress/members/single/messages/messages-loop.php:21
+msgid "Subject"
+msgstr "Sujet"
+
+#: buddyboss-inbox/drafts.php:34
+#: buddyboss-inbox/members/single/messages/messages-loop.php:34
+#: buddypress/members/single/messages/messages-loop.php:22
+msgid "Date"
+msgstr "Date"
+
+#: buddyboss-inbox/drafts.php:46 buddyboss-inbox/drafts.php:119
+msgid "Select this message"
+msgstr "Sélectionnez ce message"
+
+#: buddyboss-inbox/drafts.php:53 buddyboss-inbox/drafts.php:124
+msgid "To:"
+msgstr "À:"
+
+#: buddyboss-inbox/drafts.php:59 buddyboss-inbox/drafts.php:74
+#: buddyboss-inbox/drafts.php:85 buddyboss-inbox/drafts.php:130
+#: buddyboss-inbox/drafts.php:143 buddyboss-inbox/drafts.php:154
+msgid "Draft"
+msgstr "Brouillon"
+
+#: buddyboss-inbox/drafts.php:68 buddyboss-inbox/drafts.php:137
+#: buddyboss-inbox/members/single/messages/messages-loop.php:66
+#: buddypress/members/single/messages/messages-loop.php:69
+msgid "View Message"
+msgstr "Voir le message"
+
+#: buddyboss-inbox/drafts.php:183
+#: buddyboss-inbox/members/single/messages/messages-loop.php:125
+#: buddypress/members/single/messages/messages-loop.php:127
+msgid "Sorry, no messages were found."
+msgstr "Désolé, aucun message n'a été trouvé."
+
+#: buddyboss-inbox/members/single/messages/compose.php:5
+#: buddypress/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr "Envoyer à (Utilisateur ou nom de l'ami)"
+
+#: buddyboss-inbox/members/single/messages/compose.php:30
+#: buddypress/members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr "Ceci est un message à tous les utilisateurs."
+
+#: buddyboss-inbox/members/single/messages/compose.php:37
+#: buddypress/members/single/messages/compose.php:20
+msgid "Message"
+msgstr "Message"
+
+#: buddyboss-inbox/members/single/messages/compose.php:89
+#: buddypress/members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr "Envoyer un message"
+
+#: buddyboss-inbox/members/single/messages/messages-loop.php:37
+msgid "Star"
+msgstr "Étoile"
+
+#: buddyboss-inbox/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr "Vous êtes seul dans cette conversation."
+
+#: buddyboss-inbox/members/single/messages/single.php:18
+msgid "Conversation between %s and you."
+msgstr "Conversation entre %s et vous."
+
+#: buddyboss-inbox/members/single/messages/single.php:24
+#: buddypress/members/single/messages/notices-loop.php:33
+msgid "Delete Message"
+msgstr "Supprimer le message"
+
+#: buddyboss-inbox/members/single/messages/single.php:24
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:167
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:220
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:194
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:256
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:369
+#: buddypress/activity/comment.php:43 buddypress/activity/entry.php:74
+msgid "Delete"
+msgstr "Supprimer"
+
+#: buddyboss-inbox/members/single/messages/single.php:95
+msgid "Send a Reply"
+msgstr "Envoyer une réponse"
+
+#: buddyboss-inbox/members/single/messages/single.php:125
+msgid "Send Reply"
+msgstr "Réponse envoyée"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/enqueue.php:453
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:687
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/enqueue.php:461
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:688
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/enqueue.php:469
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/enqueue.php:477
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:689
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/enqueue.php:484
+msgid "Please Wait"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/enqueue.php:495
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/enqueue.php:496
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/panel.php:141
+#, fuzzy
+msgid "Settings Imported!"
+msgstr "Réglages"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/panel.php:184
+#, fuzzy
+msgid "Settings Saved!"
+msgstr "Réglages"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/panel.php:212
+#, fuzzy
+msgid "error(s) were found!"
+msgstr "Aucun membre n'a été trouvé."
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:228
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:228
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:201
+msgid "Redux Framework"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:232
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:236
+#, fuzzy
+msgid "Options"
+msgstr "Optimisations"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:1753
+#, fuzzy
+msgid "Enable"
+msgstr "Tablette"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:1758
+#, fuzzy
+msgid "Disable"
+msgstr "Tablette"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:1764
+msgid "moving the mouse over"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:1766
+msgid "clicking"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:1770
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:1775
+msgid "Hints"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:1902
+#, fuzzy
+msgid "Default"
+msgstr "Photo par Défaut"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:2782
+#, fuzzy
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+"Désolé sécurité n'a pas vérifié, rafraîchir la page et essayez à nouveau."
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:2791
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:2867
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:3960
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/framework.php:3975
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_cdn.php:76
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_cdn.php:81
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_cdn.php:113
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_filesystem.php:31
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_filesystem.php:60
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_filesystem.php:271
+msgid "File Permission Issues"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_filesystem.php:31
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_filesystem.php:60
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_filesystem.php:271
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/class.redux_helpers.php:610
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:722
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:723
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/extension_customizer.php:724
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#. translators: %s is the site/panel title in the Customizer
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+msgid "You are customizing %s"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:138
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+#: buddyboss-inc/buddyboss-framework/options-init.php:1342
+msgid "Import / Export"
+msgstr "Importer / Exporter"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+#, fuzzy
+msgid "Import Options"
+msgstr "Options Mobile"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+#, fuzzy
+msgid "Import"
+msgstr "Support"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:120
+#, fuzzy
+msgid "Export Options"
+msgstr "Options Mobile"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/options_object/extension_options_object.php:82
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/background/field_background.php:124
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/color/field_color.php:73
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/background/field_background.php:277
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/background/field_background.php:314
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/media/field_media.php:198
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:126
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:188
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:144
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:215
+msgid "Upload"
+msgstr "Mettre en ligne"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/background/field_background.php:321
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/media/field_media.php:205
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:133
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:190
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:151
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:217
+msgid "Remove"
+msgstr "Supprimer"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/border/field_border.php:125
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/border/field_border.php:138
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:215
+#, fuzzy
+msgid "Top"
+msgstr "À:"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/border/field_border.php:145
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/border/field_border.php:152
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/border/field_border.php:159
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/border/field_border.php:174
+#, fuzzy
+msgid "Border style"
+msgstr "Entête - Style"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+#, fuzzy
+msgid "From "
+msgstr "De"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+#, fuzzy
+msgid "To "
+msgstr "À:"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:178
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/dimensions/field_dimensions.php:190
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/link_color/field_link_color.php:88
+msgid "Regular"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/link_color/field_link_color.php:92
+msgid "Hover"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/link_color/field_link_color.php:96
+msgid "Visited"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/link_color/field_link_color.php:100
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:335
+msgid "Active"
+msgstr "Active"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+#, fuzzy
+msgid "Add More"
+msgstr "Lire la Suite"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/password/field_password.php:62
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:80
+#: template-parts/site-login.php:45 template-parts/site-register.php:52
+#: welcome-experience/login.php:43
+msgid "Password"
+msgstr "Mot de passe"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/password/field_password.php:63
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:71
+#: template-parts/site-login.php:39 template-parts/site-register.php:48
+#: welcome-experience/login.php:36
+msgid "Username"
+msgstr "Nom d’utilisateur"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/select/field_select.php:83
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/select_image/field_select_image.php:63
+#, fuzzy
+msgid "Select an item"
+msgstr "Sélectionner une image"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/select/field_select.php:134
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/select_image/field_select_image.php:144
+#, fuzzy
+msgid "No items of this type were found."
+msgstr "Aucun membre n'a été trouvé."
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:68
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:84
+msgid "Slide"
+msgstr "Diapositive"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:73
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:174
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:89
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:201
+msgid "New %s"
+msgstr "Nouveau %s"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:145
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:200
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:163
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:227
+msgid "Title"
+msgstr "Titre"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:149
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:204
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:168
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:231
+#: buddyboss-media/groups/single/buddyboss-media-album-create.php:24
+#: buddyboss-media/groups/single/buddyboss-media-album-edit.php:30
+#: buddyboss-media/members/single/buddyboss-media-album-create.php:29
+#: buddyboss-media/members/single/buddyboss-media-album-edit.php:30
+msgid "Description"
+msgstr "Description"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:153
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:207
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:179
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:242
+msgid "URL"
+msgstr "URL"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/slides/field_slides.php:223
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:259
+msgid "Add %s"
+msgstr "Ajouter %s"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/switch/field_switch.php:41
+#: buddyboss-inc/buddyboss-framework/options-init.php:76
+#: buddyboss-inc/buddyboss-framework/options-init.php:91
+#: buddyboss-inc/buddyboss-framework/options-init.php:170
+#: buddyboss-inc/buddyboss-framework/options-init.php:236
+#: buddyboss-inc/buddyboss-framework/options-init.php:253
+#: buddyboss-inc/buddyboss-framework/options-init.php:284
+#: buddyboss-inc/buddyboss-framework/options-init.php:293
+#: buddyboss-inc/buddyboss-framework/options-init.php:505
+#: buddyboss-inc/buddyboss-framework/options-init.php:582
+#: buddyboss-inc/buddyboss-framework/options-init.php:591
+#: buddyboss-inc/buddyboss-framework/options-init.php:619
+#: buddyboss-inc/buddyboss-framework/options-init.php:1012
+#: buddyboss-inc/buddyboss-framework/options-init.php:1032
+#: buddyboss-inc/buddyboss-framework/options-init.php:1063
+#: buddyboss-inc/buddyboss-framework/options-init.php:1154
+#: buddyboss-inc/buddyboss-framework/options-init.php:1224
+#: buddyboss-inc/buddyboss-framework/options-init.php:1240
+#: buddyboss-inc/buddyboss-framework/options-init.php:1258
+#: buddyboss-inc/buddyboss-framework/options-init.php:1286
+#: buddyboss-inc/buddyboss-framework/options-init.php:1295
+#: buddyboss-inc/buddyboss-framework/options-init.php:1303
+msgid "On"
+msgstr "On"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/switch/field_switch.php:44
+#: buddyboss-inc/buddyboss-framework/options-init.php:77
+#: buddyboss-inc/buddyboss-framework/options-init.php:92
+#: buddyboss-inc/buddyboss-framework/options-init.php:171
+#: buddyboss-inc/buddyboss-framework/options-init.php:237
+#: buddyboss-inc/buddyboss-framework/options-init.php:254
+#: buddyboss-inc/buddyboss-framework/options-init.php:285
+#: buddyboss-inc/buddyboss-framework/options-init.php:294
+#: buddyboss-inc/buddyboss-framework/options-init.php:506
+#: buddyboss-inc/buddyboss-framework/options-init.php:583
+#: buddyboss-inc/buddyboss-framework/options-init.php:592
+#: buddyboss-inc/buddyboss-framework/options-init.php:620
+#: buddyboss-inc/buddyboss-framework/options-init.php:1013
+#: buddyboss-inc/buddyboss-framework/options-init.php:1033
+#: buddyboss-inc/buddyboss-framework/options-init.php:1064
+#: buddyboss-inc/buddyboss-framework/options-init.php:1155
+#: buddyboss-inc/buddyboss-framework/options-init.php:1225
+#: buddyboss-inc/buddyboss-framework/options-init.php:1241
+#: buddyboss-inc/buddyboss-framework/options-init.php:1259
+#: buddyboss-inc/buddyboss-framework/options-init.php:1287
+#: buddyboss-inc/buddyboss-framework/options-init.php:1296
+#: buddyboss-inc/buddyboss-framework/options-init.php:1304
+msgid "Off"
+msgstr "Fermé"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:258
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:273
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:281
+#, fuzzy
+msgid "Font style"
+msgstr "Style du pied de page"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:281
+#, fuzzy
+msgid "Style"
+msgstr "Styliser"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:325
+#, fuzzy
+msgid "Font script"
+msgstr "Description connexion"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:342
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:343
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:365
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:366
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:388
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:389
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:408
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:409
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:410
+#, fuzzy
+msgid "Text Decoration"
+msgstr "Description d’enregistrement"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:432
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:441
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:450
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:459
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:478
+#, fuzzy
+msgid "Font Color"
+msgstr "Couleurs personnalisées"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/embedded.php:15
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/embedded.php:24
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:18
+#, fuzzy
+msgid "Redux Code Styles"
+msgstr "Entête - Style"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:135
+#, fuzzy
+msgid "Allow tracking"
+msgstr "Suivis"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:152
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:152
+#, fuzzy
+msgid "our documentation"
+msgstr " recommendation"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:153
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:154
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:225
+msgid "Redux Extensions"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:154
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:155
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:155
+#, fuzzy
+msgid "donation"
+msgstr "Mentions"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/tracking.php:166
+#: buddypress/activity/post-form.php:94 template-parts/create-post.php:38
+#: template-parts/site-register.php:92
+msgid "Close"
+msgstr "Fermer"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/color/validation_color.php:15
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/email/validation_email.php:16
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/about.php:2
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/about.php:5
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/about.php:8
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/changelog.php:10
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/credits.php:10
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/extensions.php:81
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:34
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:8
+msgid "Version %s"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/about.php:22
+#, fuzzy
+msgid "Learn More"
+msgstr "Lire la Suite"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/changelog.php:5
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:30
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/credits.php:18
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/extensions.php:89
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:43
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:63
+#, fuzzy
+msgid "Copy for Support"
+msgstr "Support"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:73
+#, fuzzy
+msgid "WordPress Environment"
+msgstr "Login WordPress"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:83
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:89
+#, fuzzy
+msgid "Site URL"
+msgstr "Sites"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:92
+msgid "The root URL of your site."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:103
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:114
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:120
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:126
+#, fuzzy
+msgid "WP Content URL"
+msgstr "Contenu :"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:129
+msgid "The location of Wordpress's content URL."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:140
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:151
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:162
+#, fuzzy
+msgid "Permalink Structure"
+msgstr "Permalink à %s"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:165
+msgid ""
+"The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:174
+#, fuzzy
+msgid "Front Page Display"
+msgstr "Barre latérale de la page principale"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:176
+msgid "The current Reading mode of Wordpress."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:185
+#, fuzzy
+msgid "Front Page"
+msgstr "Barre latérale de la page principale"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:188
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:196
+#, fuzzy
+msgid "Posts Page"
+msgstr "Articles"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:199
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:213
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:220
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:232
+msgid "The prefix structure of the current Wordpress database."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:243
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:255
+msgid "Language"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:258
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:280
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:307
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:318
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:335
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:346
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:356
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:361
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:366
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:371
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:376
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:387
+#, fuzzy
+msgid "SUHOSIN Installed"
+msgstr "Non installé"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:388
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:400
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:405
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:412
+msgid "The default timezone for your server."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:416
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:428
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:434
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:473
+#, fuzzy
+msgid "Remote Post"
+msgstr "Le plus de sujets"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:474
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:479
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:482
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:497
+msgid "Error: %s"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:489
+#, fuzzy
+msgid "Remote Get"
+msgstr "Supprimer"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:490
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:495
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:531
+#, fuzzy
+msgid "Active Plugins"
+msgstr "Extensions"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:546
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:579
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:587
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:595
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:600
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:605
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:610
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:615
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:620
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:626
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:631
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:636
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:645
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:650
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:676
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:705
+#, fuzzy
+msgid "Theme"
+msgstr "Thèmes"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:710
+msgid "Name"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:711
+msgid "The name of the current active theme."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:715
+msgid "Version"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:716
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:728
+#, fuzzy
+msgid "Author URL"
+msgstr "Auteur"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:729
+msgid "The theme developers URL."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:733
+#, fuzzy
+msgid "Child Theme"
+msgstr "Thème OneSocial"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:734
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:737
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:747
+msgid "The name of the parent theme."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:754
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:761
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:4
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:19
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:21
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:35
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:63
+#, fuzzy
+msgid "User"
+msgstr "Utilisateurs"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:92
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:101
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:105
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/support.php:134
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:179
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:201
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:209
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:217
+#: buddyboss-inc/buddyboss-framework/admin/class.redux-plugin.php:416
+#, fuzzy
+msgid "Get Support"
+msgstr "Support"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:234
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:242
+msgid "Redux Framework Status"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:342
+#, fuzzy
+msgid "What's New"
+msgstr "Quoi de neuf, %s ?"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:345
+#, fuzzy
+msgid "Extensions"
+msgstr "Mentions"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:348
+msgid "Changelog"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:351
+msgid "Credits"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:354
+#: buddyboss-inc/buddyboss-framework/options-init.php:1328
+msgid "Support"
+msgstr "Support"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:357
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:326
+msgid "Status"
+msgstr "Statut"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/welcome.php:514
+#, fuzzy
+msgid "View %s"
+msgstr "Nouveau %s"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/footer.tpl.php:57
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header_stickybar.tpl.php:21
+#: buddypress/groups/single/admin.php:44 buddypress/groups/single/admin.php:129
+#: buddypress/members/single/settings/general.php:37
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/footer.tpl.php:61
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header_stickybar.tpl.php:25
+#, fuzzy
+msgid "Reset Section"
+msgstr "Description d’enregistrement"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/footer.tpl.php:62
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header_stickybar.tpl.php:26
+#, fuzzy
+msgid "Reset All"
+msgstr "Sites toujours autorisés"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/footer.tpl.php:67
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header_stickybar.tpl.php:29
+#, fuzzy
+msgid "Working..."
+msgstr "Chargement..."
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header.tpl.php:11
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header.tpl.php:31
+#, fuzzy
+msgid "and"
+msgstr "et"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/class.redux-plugin.php:312
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/class.redux-plugin.php:312
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/class.redux-plugin.php:413
+msgid "Docs"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/class.redux-plugin.php:414
+msgid "Repo"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/class.redux-plugin.php:415
+msgid "Builder"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/class.redux-plugin.php:421
+#, fuzzy
+msgid "Deactivate Demo Mode"
+msgstr "Désactiver"
+
+#: buddyboss-inc/buddyboss-framework/admin/class.redux-plugin.php:423
+#, fuzzy
+msgid "Activate Demo Mode"
+msgstr "Activer"
+
+#: buddyboss-inc/buddyboss-framework/admin/tests/includes/class-tivwp-dm-controller.php:28
+msgid "Must call in of after the \"plugins_loaded\" action."
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/tests/includes/class-tivwp-dm-controller.php:138
+msgid "Unknown action \"%1$s\" specified for %2$s"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/tests/includes/class-tivwp-dm-controller.php:143
+msgid "The unknown action has been replaced with \"%s\""
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/tests/includes/class-tivwp-dm-controller.php:158
+msgid "Automatic action performed: \"%s\""
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/tests/includes/class-tivwp-dm.php:112
+msgid "Activate Development Plugins"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/tests/includes/class-tivwp-dm.php:119
+msgid "Deactivate Development Plugins"
+msgstr ""
+
+#: buddyboss-inc/buddyboss-framework/admin/tests/includes/class-tivwp-dm.php:131
+#, fuzzy
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Vous n’avez pas la permission de mettre votre photo de couverture à jour."
+
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:172
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:235
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:175
+#: buddyboss-inc/buddyboss-framework/boss-extensions/extensions/custom_slides/custom_slides/field_custom_slides.php:238
+msgid "Open link in a new window/tab?"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre/onglet"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:66
+#: buddyboss-inc/buddyboss-framework/options-init.php:1172
+msgid "Logo"
+msgstr "Logo"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:73
+msgid "Desktop Logo"
+msgstr "Logo pour ordinateur"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:74
+msgid "Upload your custom site logo for desktop layout (280px by 80px)."
+msgstr ""
+"Télécharger le logo de votre site personnalisé pour la disposition de bureau "
+"(280px par 80px)."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:88
+msgid "Mobile Logo"
+msgstr "Logo Mobile"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:89
+msgid "Upload your custom site logo for mobile layout (280px by 80px)."
+msgstr ""
+"Télécharger le logo de votre site personnalisé pour la mise en page mobile "
+"(280px par 80px)."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:104
+msgid "Favicon"
+msgstr "Favicon"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:105
+#, fuzzy
+msgid ""
+"Upload your custom site favicon and Apple device icons at <a href=\"%s"
+"\">Appearance &gt; Customize</a> in the Site Identity section."
+msgstr ""
+"Télécharger votre favicon de site personnalisé et icônes d'appareil Apple à "
+"<a href=\"$%1$s\">Apparence > Personnaliser</a> dans la section identité du "
+"Site."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:117
+#: template-parts/header-aside.php:37
+msgid "Bookmarks"
+msgstr "Mes signets"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:118
+msgid "Show/hide Bookmarks button in titlebar."
+msgstr "Afficher/masquer le bouton favoris dans la barre de titre."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:119
+#: buddyboss-inc/buddyboss-framework/options-init.php:129
+#: buddyboss-inc/buddyboss-framework/options-init.php:184
+#: buddyboss-inc/buddyboss-framework/options-init.php:193
+#: buddyboss-inc/buddyboss-framework/options-init.php:203
+#: buddyboss-inc/buddyboss-framework/options-init.php:212
+msgid "Show"
+msgstr "Afficher"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:120
+#: buddyboss-inc/buddyboss-framework/options-init.php:130
+#: buddyboss-inc/buddyboss-framework/options-init.php:185
+#: buddyboss-inc/buddyboss-framework/options-init.php:194
+#: buddyboss-inc/buddyboss-framework/options-init.php:204
+#: buddyboss-inc/buddyboss-framework/options-init.php:213
+#: buddyboss-inc/buddyboss-framework/options-init.php:339
+#: buddyboss-inc/buddyboss-framework/options-init.php:353
+msgid "Hide"
+msgstr "Masquer"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:127
+#: template-parts/header-aside.php:66
+msgid "Write a Story"
+msgstr "Écrire une histoire"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:128
+msgid "Show/hide Write a Story button in titlebar."
+msgstr "Afficher/masquer écrire un bouton du récit dans la barre de titre."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:137
+msgid "Header"
+msgstr "Entête"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:144
+msgid "Header Style"
+msgstr "Entête - Style"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:145
+msgid "Select the header layout."
+msgstr "Sélectionnez la mise en page d'en-tête"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:163
+#: buddyboss-inc/buddyboss-framework/options-init.php:168
+msgid "Sticky Header"
+msgstr "En-tête fixe"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:169
+msgid "Enable sticky header, so titlebar sticks to top of page at all times."
+msgstr ""
+"Activer l'entête fixe, pour que le contenu de l'entête reste affiché en tout "
+"temps."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:177
+msgid "Header Buttons"
+msgstr "Boutons d’en-tête"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:182
+msgid "Messages"
+msgstr "Messages"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:183
+msgid "Show/hide Messages button in titlebar."
+msgstr "Afficher/masquer le bouton Messages dans la barre de titre."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:191
+msgid "Notifications"
+msgstr "Notifications"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:192
+msgid "Show/hide Notifications button in titlebar."
+msgstr "Bouton afficher/masquer Notifications dans la barre de titre."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:201
+#: buddypress/members/single/home.php:33
+msgid "Settings"
+msgstr "Réglages"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:202
+msgid "Show/hide Settings button in titlebar."
+msgstr "bouton Paramètres Afficher / Masquer dans la barre de titre."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:211
+msgid "Show/hide Search button in titlebar."
+msgstr "Afficher/masquer le bouton Rechercher dans la barre de titre."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:227
+msgid "Posts Editor"
+msgstr "Editeur d'Articles"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:233
+msgid "Blog Index Post Editor"
+msgstr "Éditeur de messages blog Index"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:234
+msgid "Allow members to publish from the Blog index."
+msgstr "Permettre aux membres de publier à partir de l'index du Blog."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:243
+msgid "Layout"
+msgstr "Disposition"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:251
+msgid "WordPress Adminbar"
+msgstr "Barre d'Admin WordPress"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:252
+msgid "Display the adminbar for logged in admin users."
+msgstr "Afficher la adminbar pour les utilisateurs administrateurs connectés."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:260
+#: buddyboss-inc/buddyboss-framework/options-init.php:265
+msgid "Front Page Sidebar"
+msgstr "Barre latérale de la page principale"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:266
+msgid ""
+"If Front page is set to display \"Your latest posts\" at <em>Settings > "
+"Reading</em>, you can set the sidebar default to be opened or closed."
+msgstr ""
+"Si la première page est défini pour afficher « Vos derniers messages » à "
+"<em>paramètres > lecture</em>, vous pouvez définir la valeur par défaut de "
+"la barre latérale pour être ouverte ou fermée."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:268
+msgid "Opened"
+msgstr "Ouvert"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:269
+msgid "Closed"
+msgstr "Fermé"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:276
+msgid "Infinite Scrolling"
+msgstr "Défilé Interminable"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:281
+msgid "Activity Infinite Scrolling"
+msgstr "Défillement Infini de l'Activité"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:282
+msgid ""
+"Allow content in all Activity Streams to automatically load more as you "
+"scroll down the page."
+msgstr ""
+"Autoriser le contenu de tous les flux d'activité pour charger "
+"automatiquement plus lorsque vous faites défiler la page."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:290
+msgid "Posts Infinite Scrolling"
+msgstr "Défillement Infini des Articles"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:291
+msgid "Allow Posts to automatically load more as you scroll down the page."
+msgstr ""
+"Autoriser les messages à charger automatiquement plus lorsque vous faites "
+"défiler la page."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:299
+msgid ""
+"Responsive: We use device detection to determine the correct layout, with "
+"media queries as a fallback."
+msgstr ""
+"Responsive: Nous utilisons la détection de l'appareil pour déterminer la "
+"mise en page correcte, avec les questions des médias comme une solution de "
+"repli."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:304
+msgid "Desktop"
+msgstr "Bureau"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:305
+msgid "Select the default desktop layout."
+msgstr "Sélectionnez la mise en page par défaut pour un ordinateur de table."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:315
+msgid "Tablet"
+msgstr "Tablette"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:316
+msgid "Select the default tablet layout."
+msgstr "Sélectionnez la mise en page par défaut pour une tablette."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:326
+msgid "Phone"
+msgstr "Téléphone"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:327
+msgid "Phones can only display mobile layout."
+msgstr "Téléphones ne peuvent afficher que la mise en page mobile."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:336
+msgid "View Desktop/Mobile button"
+msgstr "Afficher le bouton \"Desktop/Mobile\""
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:337
+msgid "Display or hide the layout switch button in your site footer."
+msgstr ""
+"Afficher ou masquer le bouton de l'interrupteur de mise en page de votre bas "
+"de page."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:338
+#: buddyboss-inc/buddyboss-framework/options-init.php:352
+msgid "Display"
+msgstr "Affichage"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:345
+msgid "Mobile Options"
+msgstr "Options Mobile"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:350
+msgid "Search Input"
+msgstr "Case de Recherche"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:351
+msgid ""
+"The mobile titlebar can optionally display a search input in place of your "
+"site logo/title."
+msgstr ""
+"La barre de titre mobile peut éventuellement afficher une entrée de "
+"recherche à la place le logo/titre de votre site."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:362
+msgid "Page/Post Sidebar"
+msgstr "Encadré de la page/Post"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:363
+msgid "Select the page and blog post sidebar alignment."
+msgstr ""
+"Sélectionnez l'alignement de la barre latérale pour les posts standards et "
+"les pages"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:374
+msgid "Homepage Sidebar"
+msgstr "accueil Sidebar"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:375
+msgid "Select the homepage sidebar alignment."
+msgstr "Sélectionnez l'alignement de sidebar page d'accueil."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:386
+msgid "Member Profile Sidebar"
+msgstr "Barre latérale Profil"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:387
+msgid "Select the member profile sidebar alignment."
+msgstr "Sélectionnez l'alignement de barre latérale de profil de membre."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:398
+msgid "Single Group Sidebar"
+msgstr "Barre latérale de Groupe"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:399
+msgid "Select the single group sidebar alignment."
+msgstr "Sélectionnez l'alignement de barre latérale de groupe unique."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:410
+msgid "Activity Sidebar"
+msgstr "Barre Latérale d'activité"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:411
+msgid "Select the activity sidebar alignment."
+msgstr "Sélectionnez l'alignement de barre latérale de l'activité."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:422
+msgid "Forums Sidebar"
+msgstr "Forums Sidebar"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:423
+#: buddyboss-inc/buddyboss-framework/options-init.php:435
+msgid "Select the forums sidebar alignment."
+msgstr "Sélectionnez l'alignement de barre latérale de forums."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:434
+msgid "Blogs &rarr; Directory (multisite) Sidebar"
+msgstr "Barre Latérale des Blogs &rarr; Répertoire (multisite)"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:446
+msgid "WooCommerce &rarr; Shop Sidebar"
+msgstr "WooCommerce &rarr; Boutique Sidebar"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:447
+msgid "Select the woocommerce sidebar alignment."
+msgstr "Sélectionnez l'alignement de barre latérale woocommerce."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:458
+msgid "Search Results Sidebar"
+msgstr "Barre latérale des résultats de recherche"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:459
+msgid "Select the search results page sidebar alignment."
+msgstr "Sélectionnez la disposition pour la page de résultats de recherche."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:469
+msgid "Sidebars"
+msgstr "Barres latérales"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:489
+msgid "Cover Images"
+msgstr "Image de couverture"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:497
+msgid "BuddyPress Groups &gt; Cover Images"
+msgstr "Groupes BuddyPress &gt; Image de Couverture"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:502
+msgid "Enable Group Cover Images"
+msgstr "Activer les Images de Couverture de Groupes"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:503
+msgid ""
+"Make sure to also enable \"Group Cover Image Uploads\" at <em>Settings &gt; "
+"BuddyPress &gt; Settings.</em>"
+msgstr ""
+"Veillez à activer aussi « Ajout de Couverture de Groupe » dans "
+"<em>Paramètres > BuddyPress > paramètres.</em>"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:511
+msgid "Cover Image Size"
+msgstr "Image de couverture :"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:512
+msgid "Adjust the height of group cover images."
+msgstr "Régler la hauteur des images de couverture de groupe."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:520
+msgid "Default Photo"
+msgstr "Photo par Défaut"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:521
+msgid ""
+"We display a photo at random from our included library. You can optionally "
+"upload your own image to always use a default cover photo. Ideal size is "
+"1050px by 320px."
+msgstr ""
+"Nous affichons une photo au hasard dans la bibliothèque par défaut. Vous "
+"pouvez éventuellement télécharger votre propre image et utiliser comme photo "
+"de couverture par défaut. Taille idéale est 1050px par 320px."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:529
+msgid "Homepage Slides"
+msgstr "Diaporama d'Accueil"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:536
+msgid "Slider Options"
+msgstr "Options du Slider"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:537
+msgid ""
+"Select if you want to use the OneSocial slider, or shortcodes from a 3rd "
+"party plugin."
+msgstr ""
+"Sélectionnez si vous souhaitez utiliser le diaporama de la OneSocial, ou le "
+"shortcodes de plugin de tierce partie."
+
+#. Theme Name of the plugin/theme
+msgid "OneSocial"
+msgstr "OneSocial"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:540
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:545
+msgid "OneSocial Slider"
+msgstr "Curseur OneSocial"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:546
+msgid ""
+"Use our internal slider code. Drag and drop to re-order. Ideal image size is "
+"1040px by 400px."
+msgstr ""
+"Utilisez notre code curseur interne. Glissez et déposez pour re-commander. "
+"Taille de l'image idéale est 1040px par 400px."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:549
+#: buddyboss-inc/buddyboss-framework/options-init.php:849
+msgid "Slide Title"
+msgstr "Titre de la Diapositive"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:550
+msgid "Slide Description"
+msgstr "Description de la diapositive."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:552
+msgid "Give us a link!"
+msgstr "Donnez-nous un lien !"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:559
+msgid "Slider Shortcode"
+msgstr "Shortcode Personalisé"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:560
+msgid ""
+"Add a different slider without editing code. Many of the popular slider "
+"plugins provide shortcodes to display their slides, which you can add here."
+msgstr ""
+"Ajouter un diaporama différent sans modification du code. Beaucoup de "
+"plugins \"sliders\" populaires fournissent des shortcodes pour afficher "
+"leurs diapositives, que vous pouvez ajouter ici."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:568
+msgid "Profiles"
+msgstr "Profils"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:575
+msgid "User Menus"
+msgstr "Menus de l'utilisateur"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:580
+msgid "Dashboard Links"
+msgstr "Liens du Tableau de Bord"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:581
+msgid ""
+"For admin users, display links to the WordPress dashboard in their profile "
+"dropdown menu."
+msgstr ""
+"Pour les utilisateurs d'administration, des liens d'affichage au tableau de "
+"bord WordPress dans leur menu déroulant de profil."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:589
+msgid "\"My Profile\" Menu"
+msgstr "Menu \"Mon Profile\""
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:590
+msgid ""
+"Display the WordPress menu titled \"My Profile\" in the user profile "
+"dropdown menu."
+msgstr ""
+"Afficher le menu \"mon Profile\" dans le menu déroulant du profil "
+"d'utilisateur."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:598
+msgid "Profile Header Field"
+msgstr "Profil de champ d'en-tête"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:604
+msgid "Displayed Field"
+msgstr "Champ affiché"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:605
+msgid ""
+"Create a BuddyPress profile field at <em>Users &gt; Profile Fields</em> and "
+"set it to display in Member Profile headers. Ex: \"Location\""
+msgstr ""
+"Créer un champ de profil BuddyPress à <em>utilisateurs > champs de profil</"
+"em> et définissez-la à afficher dans les en-têtes de profil du membre. Ex: « "
+"Location »"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:611
+#: buddyboss-inc/buddyboss-framework/options-init.php:616
+msgid "Social Media Links"
+msgstr "Liens pour médias et réseaux sociaux"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:617
+msgid "Allow users to display their social media links in their profiles."
+msgstr ""
+"Permettre aux utilisateurs d'afficher leurs liens de médias sociaux dans "
+"leurs profils."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:625
+msgid "Sites to Allow"
+msgstr "Sites toujours autorisés"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:653
+#: buddyboss-inc/buddyboss-framework/options-init.php:1171
+#: buddyboss-inc/buddyboss-framework/options-init.php:1178
+msgid "Site Title"
+msgstr "Titre du site"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:654
+#: buddyboss-inc/buddyboss-framework/options-init.php:1179
+msgid "Specify the site title properties."
+msgstr "Précisez les propriétés du titre du site."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:671
+msgid "Body Font"
+msgstr "Police du corps de la Page"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:672
+msgid "Specify the body font properties."
+msgstr "Spécifie les propriétés de la police du corps de texte."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:688
+msgid "H1 Font"
+msgstr "Polices H1"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:689
+msgid "Specify the H1 tag font properties."
+msgstr "Spécifiez les propriétés de police de balises H1."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:706
+msgid "H2 Font"
+msgstr "Police de taille H2"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:707
+msgid "Specify the H2 tag font properties."
+msgstr "Spécifiez les propriétés de police de balises H2."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:724
+msgid "H3 Font"
+msgstr "Police de taille H3"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:725
+msgid "Specify the H3 tag font properties."
+msgstr "Spécifiez les propriétés de police de balises H3."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:742
+msgid "H4 Font"
+msgstr "Police de taille H4"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:743
+msgid "Specify the H4 tag font properties."
+msgstr "Spécifiez les propriétés de police de balises H4."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:760
+msgid "H5 Font"
+msgstr "Police de taille H5"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:761
+msgid "Specify the H5 tag font properties."
+msgstr "Spécifiez les propriétés de police de balises H5."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:778
+msgid "H6 Font"
+msgstr "Police de taille H6"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:779
+msgid "Specify the H6 tag font properties."
+msgstr "Spécifiez les propriétés de police de balises H6."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:796
+msgid "Titles"
+msgstr "Titres"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:797
+msgid "Specify the members/groups title font properties."
+msgstr "Spécifiez les propriétés de police du titre/groupes de membres."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:814
+msgid "Excerpt Content"
+msgstr "Extrait du contenu"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:815
+msgid "Specify the post excerpt font properties."
+msgstr "Spécifiez les propriétés de police post extrait."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:832
+msgid "Create Group Numbers"
+msgstr "Créer des numéros de groupe"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:833
+msgid "Specify the create group numbers font properties."
+msgstr "Spécifiez les propriétés de police de créer groupe numéros."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:850
+msgid "Specify the slide title font properties."
+msgstr "Spécifiez les propriétés de police de titre de la diapositive."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:868
+msgid "Typography"
+msgstr "Typographie"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:954
+msgid "Styling"
+msgstr "Styliser"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:985
+msgid "Footer"
+msgstr "Bas de Page"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:992
+msgid "Footer Style"
+msgstr "Style du pied de page"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1009
+msgid "Copyright Text"
+msgstr "Texte du droit d’auteur"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1010
+msgid "Enter your custom copyright text."
+msgstr "Entrez votre texte de droit d'auteur personnalisé."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1029
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1030
+msgid ""
+"Define and reorder your social icons in the footer. Keep the input field "
+"empty for any social icon you do not wish to display."
+msgstr ""
+"Définir et réordonner les icones de liens sociaux du bas de page. Vider les "
+"valeurs du champ pour les icones à ne pas afficher."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1045
+msgid "Sign into %s"
+msgstr "Connectez-vous à %s"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1048
+msgid " or create an account"
+msgstr "Créer un compte"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1053
+msgid "Register/Login"
+msgstr "Inscription / Connexion"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1060
+msgid "Register/Login Overlays"
+msgstr "Inscription/connexion superpositions"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1061
+msgid "Toggle the custom register/login overlays on or off."
+msgstr ""
+"Activer/désactiver les superpositions personnalisées inscription/connexion "
+"activé ou désactivé."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1069
+msgid "Login Overlay"
+msgstr "Remplacement sur la page de Connection"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1075
+msgid "Login Title"
+msgstr "Titre de Connexion"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1076
+msgid "Welcome back!"
+msgstr "Bienvenue de nouveau !"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1082
+msgid "Login Description"
+msgstr "Description connexion"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1088
+msgid "Social Login Message"
+msgstr "Connexion par réseau social"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1090
+msgid "We will never post to Twitter or Facebook without your permission."
+msgstr "Nous publierons jamais sur Twitter ou Facebook sans votre permission."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1101
+msgid "Register Overlay"
+msgstr "Remplacement sur la page d'Inscription"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1107
+msgid "Register Title"
+msgstr "S’inscrire TITRE"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1108
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:89
+#: template-parts/header-user-links.php:9
+#: template-parts/header-user-links.php:21 template-parts/site-register.php:176
+#: welcome-experience/register.php:53
+msgid "Register"
+msgstr "Inscription"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1114
+msgid "Register Description"
+msgstr "Description d’enregistrement"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1115
+msgid "Join %s"
+msgstr "Joignez-vous à %s"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1121
+#, fuzzy
+msgid "Reset Password Overlay"
+msgstr "Remplacement sur la page d'Inscription"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1127
+#, fuzzy
+msgid "Reset Password Title"
+msgstr "Répéter le nouveau mot de passe"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1134
+#, fuzzy
+msgid "Reset Password Description"
+msgstr "Description d’enregistrement"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1143
+msgid "WordPress Login"
+msgstr "Login WordPress"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1151
+msgid "Custom Login Screen"
+msgstr "Ecran de connection personnalisé"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1152
+msgid "Toggle the custom WordPress login screen design on or off."
+msgstr "Activer la personalisation de la page de connection."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1160
+msgid "WordPress Login Screen"
+msgstr "Écran de connexion de WordPress"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1166
+msgid "Title/Logo"
+msgstr "Titre/Logo"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1167
+msgid "Display the site title or upload a logo."
+msgstr "Afficher le titre de site ou télécharger un logo."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1198
+msgid "Custom Logo"
+msgstr "Logo personnalisé"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1199
+msgid "We display a custom logo in place of the default WordPress logo."
+msgstr ""
+"Nous affichons un logo personnalisé à la place du logo par défaut WordPress."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1206
+msgid "Custom Colors"
+msgstr "Couleurs personnalisées"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1207
+#, fuzzy
+msgid ""
+"Edit the admin login screen colors in the <a href=\"javascript:void(0);\" "
+"class=\"redux-group-tab-link-a\" data-key=\"8\" data-rel=\"8\">Styling "
+"section</a>, under the \"Admin Screen\"."
+msgstr ""
+"Modifier les couleurs de l'écran d'ouverture de session administrateur dans "
+"la <a href=\"javascript:void(0);\" class=\"redux-group-tab-link-a\" data-key="
+"\"7\" data-rel=\"7\">section Styling,</a> sous le \"Screen Admin\"."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1214
+msgid "Custom Codes"
+msgstr "Codes personalisés"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1221
+msgid "Tracking Code"
+msgstr "Code de suivi"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1222
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added before the closing of body tag."
+msgstr ""
+"Coller votre code javascript Google Analytics ou tout autre code de suivi "
+"ici. Ce code sera ajouté avant la fin du tag <body>."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1237
+msgid "CSS"
+msgstr "CSS"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1238
+msgid ""
+"Quickly add some CSS here to make design adjustments. It is a much better "
+"solution then manually editing the theme. You may also consider using a "
+"child theme."
+msgstr ""
+"Rapidement ajouter du CSS ici pour faire des ajustements de conception. "
+"C'est une meilleure solution que d'éditer manuellement le thème. Vous pouvez "
+"également envisager d'utiliser un thème enfant."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1255
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1256
+msgid ""
+"Quickly add some JavaScript code here. It is a much better solution then "
+"manually editing the theme. You may also consider using a child theme."
+msgstr ""
+"Rapidement ajouter votre code JavaScript. C'est une meilleure solution que "
+"d'éditer manuellement le thème. Vous pouvez également envisager d'utiliser "
+"un thème enfant."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1275
+msgid "Optimizations"
+msgstr "Optimisations"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1283
+msgid "Minify CSS"
+msgstr "Minimifier le CSS"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1284
+msgid ""
+"By default the theme loads stylesheets that are not minified. You can enable "
+"this setting to instead load minified and combined stylesheets."
+msgstr ""
+"Par défaut le thème charge des feuilles de style qui ne sont pas minimisés. "
+"Réglez cette option sur OUI pour charger à la place des fichiers css "
+"minimisés et combinés."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1292
+msgid "Minify JavaScript"
+msgstr "Minifier le Javascript"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1293
+msgid ""
+"By default the theme loads scripts that are not minified. You can enable "
+"this setting to instead load minified and combined JS files."
+msgstr ""
+"Par défaut le thème charge des feuilles de style qui ne sont pas minimisés. "
+"Réglez cette option sur OUI pour charger à la place des fichiers css "
+"minimisés et combinés."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1301
+msgid "Form Inputs JavaScript"
+msgstr "Javascript de gestion de formulaires"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1302
+msgid ""
+"To improve compatibility with certain setups, turn the JavaScript off "
+"related to dropdowns, checkboxes, and radios."
+msgstr ""
+"Afin d'améliorer la compatibilité avec certaines configurations, désactiver "
+"le JavaScript liés à des listes déroulantes, cases à cocher et les radios."
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1312
+#: template-parts/header-dashboard-links.php:19
+#: template-parts/header-dashboard-links.php:41
+#: template-parts/header-dashboard-links.php:65
+#: template-parts/header-dashboard-links.php:81
+msgid "Plugins"
+msgstr "Extensions"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1418
+#: buddyboss-inc/buddyboss-framework/options-init.php:1419
+msgid "OneSocial Theme"
+msgstr "Thème OneSocial"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1507
+msgid ""
+"<p>To access any of your saved options from within your code you can use "
+"your global variable: <strong>$%1$s</strong></p>"
+msgstr ""
+"<p>Pour accéder à vos options enregistrées à partir de votre code, vous "
+"pouvez utiliser votre variable globale: <strong>$%1$s</strong></p>"
+
+#: buddyboss-inc/buddyboss-framework/options-init.php:1509
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+"<p>Ce texte s’affiche au-dessus du panneau d’options. Il n’est pas "
+"nécessaire, mais plus d’infos est toujours intéressant ! Le champ texte "
+"d’intro accepte tout code HTML. </p>"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:247
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:263
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:305
+msgid "ERROR: Failed to install plugin: %s"
+msgstr "ERREUR: Installation du plugin ratée: %s"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:258
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:299
+msgid "Please ensure the file system is writable"
+msgstr ""
+"S'il vous plaît assurer que le système de fichier est accessible en écriture"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:274
+msgid "ERROR: No slug was passed to the AJAX callback."
+msgstr "ERREUR: Aucune trace (slug) n'a été passée par le processus AJAX."
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:280
+msgid "ERROR: You lack permissions to install and/or activate plugins."
+msgstr ""
+"ERREUR: Vous n'avez pas d'autorisations pour installer et/ou activer les "
+"plugins."
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:288
+msgid "ERROR: Error fetching plugin information: %s"
+msgstr "ERREUR : Erreur de lecture d'informations du plugin: %s"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:319
+msgid "List of supported plugins."
+msgstr "Liste des extensions supportés et suggérées."
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:325
+msgid "Plugin"
+msgstr "Plugin"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:327
+msgid "Action"
+msgstr "Mesure à prendre"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:328
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:407
+#: buddyboss-inc/theme-functions.php:2848 buddypress.php:113 buddypress.php:139
+#: image.php:37
+msgid "Edit"
+msgstr "Modifier"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:338
+msgid "Inactive"
+msgstr "Inactive"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:341
+msgid "Not Installed"
+msgstr "Non installé"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:360
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:365
+msgid "Activate"
+msgstr "Activer"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:375
+msgid "Install"
+msgstr "Installer"
+
+#: buddyboss-inc/buddyboss-framework/plugin-support.php:379
+msgid "Buy Now"
+msgstr "Achetez Maintenant"
+
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:60
+#: template-parts/header-aside.php:43
+msgid "Edit Profile"
+msgstr "Modifier mon profil"
+
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:83
+#: template-parts/site-login.php:55 welcome-experience/login.php:50
+msgid "Remember Me"
+msgstr "Se rappeler de moi"
+
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:86
+msgid "Log In"
+msgstr "Se connecter"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:14
+msgid "Social links that are set in Theme Options."
+msgstr "Liens sociaux qui sont définies dans les Options de thème."
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:15
+msgid "OneSocial Social Links"
+msgstr "Liens sociaux OneSocial"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:52
+msgid "google+"
+msgstr "Google+"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:98
+#: buddypress/forums/index.php:81
+msgid "Title:"
+msgstr "Titre:"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:117
+msgid ""
+"Shows user friends, followings and followers. Can be used only on profile "
+"page."
+msgstr ""
+"Affiche les amis du membre, les abonnés et abonnements.  Ne sert que sur la "
+"page de profil."
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:118
+msgid "OneSocial Profile"
+msgstr "Profil de OneSocial"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:154
+#: template-parts/content-author.php:81
+msgid "Following"
+msgstr "Suivis"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:158
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:174
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:194
+#: buddypress/blogs/index.php:46 buddypress/forums/index.php:38
+#: buddypress/groups/index.php:34 buddypress/members/index.php:32
+#: buddypress/members/single/groups.php:28
+msgid "Last Active"
+msgstr "Dernier actif"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:159
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:175
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:195
+#: buddypress/members/index.php:33
+msgid "Newest Registered"
+msgstr "Nouveaux Inscrits"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:160
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:176
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:196
+#: buddypress/blogs/index.php:48 buddypress/groups/index.php:37
+#: buddypress/members/index.php:36 buddypress/members/single/groups.php:31
+msgid "Alphabetical"
+msgstr "Alphabétique"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:170
+#: template-parts/content-author.php:87
+msgid "Followers"
+msgstr "Suiveurs"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:190
+msgid "Friends"
+msgstr "Amis"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:246
+msgid "Show friends"
+msgstr "Voir les amis"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:250
+msgid "Show followers"
+msgstr "Afficher les abonnés"
+
+#: buddyboss-inc/buddyboss-widgets/custom-widgets.php:253
+msgid "Show followings"
+msgstr "Afficher les Abonnements"
+
+#: buddyboss-inc/cover-photo.php:238 buddyboss-inc/cover-photo.php:304
+msgid "Update Cover Photo"
+msgstr "Mettre à Jour la Photo de Couverture"
+
+#: buddyboss-inc/cover-photo.php:247
+msgid "Remove cover photo"
+msgstr "Enlever la photo de couverture"
+
+#: buddyboss-inc/cover-photo.php:305 buddyboss-inc/cover-photo.php:344
+msgid "Get a random cover photo"
+msgstr "Avoir une photo de couverture au hasard"
+
+#: buddyboss-inc/cover-photo.php:341
+msgid "Error uploading cover photo."
+msgstr "Erreur en transférant une photo de couverture."
+
+#: buddyboss-inc/cover-photo.php:342
+msgid "Error refreshing cover photo."
+msgstr "Erreur en rafraichissant la photo de couverture."
+
+#: buddyboss-inc/cover-photo.php:343
+msgid "Remove cover photo."
+msgstr "Supprimer la photo de couverture."
+
+#: buddyboss-inc/cover-photo.php:405 buddyboss-inc/cover-photo.php:413
+#: buddyboss-inc/cover-photo.php:504 buddyboss-inc/cover-photo.php:512
+msgid "Invalid request try again later."
+msgstr "Requête invalide, essayer plus tard."
+
+#: buddyboss-inc/cover-photo.php:420 buddyboss-inc/cover-photo.php:519
+msgid "Security error try later again."
+msgstr "Erreur de sécurité, essayer plus tard."
+
+#: buddyboss-inc/cover-photo.php:427 buddyboss-inc/cover-photo.php:544
+msgid "You don't have permission to update cover photo."
+msgstr ""
+"Vous n’avez pas la permission de mettre votre photo de couverture à jour."
+
+#: buddyboss-inc/cover-photo.php:435 buddyboss-inc/cover-photo.php:551
+msgid "The section you uploading cover does not exists."
+msgstr "La section pour laquelle vous ajouter une couverture n'existe pas."
+
+#: buddyboss-inc/cover-photo.php:472 buddyboss-inc/cover-photo.php:571
+msgid "Cover photo is successfully updated."
+msgstr "La couverture a été mise à jour avec succès."
+
+#: buddyboss-inc/cover-photo.php:477
+msgid "Error while uploading the cover photo, try later again."
+msgstr "Erreur en transférant cette photo de couverture, essayer plus tard."
+
+#: buddyboss-inc/cover-photo.php:591
+msgid "Cover photo is removed."
+msgstr "Photo de couverture supprimée."
+
+#: buddyboss-inc/extra-functions.php:23
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: buddyboss-inc/extra-functions.php:28
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: buddyboss-inc/extra-functions.php:47
+#, fuzzy
+msgid "ERROR: Invalid username or email."
+msgstr "Entrez un nom d'utilisateur / Email."
+
+#: buddyboss-inc/extra-functions.php:62
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: buddyboss-inc/extra-functions.php:64
+#, fuzzy
+msgid "Username: %s"
+msgstr "Nom d’utilisateur"
+
+#: buddyboss-inc/extra-functions.php:65
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: buddyboss-inc/extra-functions.php:66
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: buddyboss-inc/extra-functions.php:81
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: buddyboss-inc/extra-functions.php:109
+#, fuzzy
+msgid "Check your e-mail for the confirmation link."
+msgstr ""
+"Votre compte n'a pas été activé. Vérifiez votre email pour le lien "
+"d'activation."
+
+#: buddyboss-inc/extra-functions.php:111
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: buddyboss-inc/extra-functions.php:111
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: buddyboss-inc/init.php:233
+msgid "Module does not have the proper info array"
+msgstr "Le module n'a pas la bonne information dans ce champs"
+
+#: buddyboss-inc/popup/ajax_login.php:29
+#: buddyboss-inc/popup/ajax_login_via_email.php:14
+msgid "Sorry security didn't verified, refresh page and try again."
+msgstr ""
+"Désolé sécurité n'a pas vérifié, rafraîchir la page et essayez à nouveau."
+
+#: buddyboss-inc/popup/ajax_login.php:43
+#: buddyboss-inc/popup/ajax_register.php:49
+#: buddyboss-inc/popup/ajax_register.php:140
+msgid "Enter an Username."
+msgstr "Entrez un nom d'utilisateur."
+
+#: buddyboss-inc/popup/ajax_login.php:54
+#: buddyboss-inc/popup/ajax_login_via_email.php:54
+msgid ""
+"Your account has not been activated. Check your email for the activation "
+"link."
+msgstr ""
+"Votre compte n'a pas été activé. Vérifiez votre email pour le lien "
+"d'activation."
+
+#: buddyboss-inc/popup/ajax_login.php:63
+#: buddyboss-inc/popup/ajax_login_via_email.php:63
+#: buddyboss-inc/popup/ajax_register.php:67
+#: buddyboss-inc/popup/ajax_register.php:152
+msgid "Enter an Password."
+msgstr "Entrez un mot de passe."
+
+#: buddyboss-inc/popup/ajax_login.php:107
+#: buddyboss-inc/popup/ajax_login_via_email.php:85
+msgid "You have been successfully logged in. Please wait."
+msgstr "Vous avez été connecté avec succès. Veuillez patienter."
+
+#: buddyboss-inc/popup/ajax_login.php:170
+msgid ""
+"<strong>ERROR:</strong> Your account has not been activated. Check your "
+"email for the activation link."
+msgstr ""
+"<strong>ERREUR</strong>: votre compte n'a pas été activé. Surveillez votre "
+"messagerie pour obtenir votre  code d'activation."
+
+#: buddyboss-inc/popup/ajax_login_via_email.php:28
+msgid "Enter an Username / Email."
+msgstr "Entrez un nom d'utilisateur / Email."
+
+#: buddyboss-inc/popup/ajax_login_via_email.php:40
+msgid "Enter email is not registered with us."
+msgstr "Cet e-mail n'est pas enregistré sur ce site."
+
+#: buddyboss-inc/popup/ajax_register.php:18
+#: buddyboss-inc/popup/ajax_register.php:119
+msgid "Sorry security didn\\'t verified, refresh page and try again."
+msgstr ""
+"Désolé sécurité n \\ 't vérifié, rafraîchir la page et essayez à nouveau."
+
+#: buddyboss-inc/popup/ajax_register.php:31
+#: buddyboss-inc/popup/ajax_register.php:128
+msgid "Enter an Email."
+msgstr "Entrez un email."
+
+#: buddyboss-inc/popup/ajax_register.php:40
+#: buddyboss-inc/popup/ajax_register.php:134
+msgid "Entered email is not a valid email address."
+msgstr "L' email n'est pas une adresse email valide."
+
+#: buddyboss-inc/popup/ajax_register.php:58
+#: buddyboss-inc/popup/ajax_register.php:146
+msgid "Username should not contain space."
+msgstr "Le nom d’utilisateur ne doit pas contenir d'espace"
+
+#: buddyboss-inc/popup/ajax_register.php:230
+msgid "This is a required field"
+msgstr ""
+
+#: buddyboss-inc/popup/user_email_verify.php:79
+msgid "Successfully Activated"
+msgstr "Activé avec succès"
+
+#: buddyboss-inc/popup/user_email_verify.php:80
+msgid "Thanks for activating your account!"
+msgstr "Merci d'avoir activé votre compte!"
+
+#: buddyboss-inc/popup/user_email_verify.php:82
+msgid ""
+"<div class=\"verification-content vefification-success\"><h2>%s</h2><p>%s</"
+"p></div>"
+msgstr ""
+"<div class=\"verification-content vefification-success\"><h2>%s</h2><p>%s</"
+"p></div>"
+
+#: buddyboss-inc/popup/user_email_verify.php:86
+msgid ""
+"<div class=\"verification-content vefification-failed\"><h2>Oops</"
+"h2><p>Verification failed. <br />Please contact to support.</p>"
+msgstr ""
+"<div class=\"verification-content vefification-failed\"><h2>Oups</"
+"h2><p>Vérification a échoué.<br>S'il vous plaît contacter pour prendre en "
+"charge.</p></div>"
+
+#: buddyboss-inc/popup/user_email_verify.php:91
+msgid ""
+"<div class=\"verification-content vefification-failed email-not-found"
+"\"><h2>Oops!</h2> <p>An account with that email address was not found.!</p>"
+msgstr ""
+"<div class=\"verification-content vefification-failed email-not-found"
+"\"><h2>Oups !</h2><p>Aucun compte avec cette adresse email n'a pas été "
+"trouvé. !</p></div>"
+
+#: buddyboss-inc/recommend-posts.php:24 buddyboss-inc/recommend-posts.php:306
+msgid "Recommend this article"
+msgstr "Recommander cet article"
+
+#: buddyboss-inc/recommend-posts.php:25 buddyboss-inc/recommend-posts.php:302
+msgid "Discourage recommendation"
+msgstr "Décourager la recommandation"
+
+#: buddyboss-inc/recommend-posts.php:41
+msgid "Not permitted"
+msgstr "Non autorisé"
+
+#: buddyboss-inc/recommend-posts.php:185
+msgid "%1$s recommended the post %2$s"
+msgstr "%1$s a recommandé l'article %2$s"
+
+#: buddyboss-inc/recommend-posts.php:490
+msgid "You"
+msgstr "Vous"
+
+#: buddyboss-inc/recommend-posts.php:493
+msgid "You "
+msgstr "Vous "
+
+#: buddyboss-inc/recommend-posts.php:493
+msgid "and "
+msgstr "et"
+
+#: buddyboss-inc/recommend-posts.php:506
+msgid " other"
+msgid_plural " others"
+msgstr[0] "autre"
+msgstr[1] "autres"
+
+#: buddyboss-inc/recommend-posts.php:510
+#, fuzzy
+msgid " recommended"
+msgstr "Recommandé"
+
+#: buddyboss-inc/recommend-posts.php:518
+msgid " recommendation"
+msgid_plural " recommendations"
+msgstr[0] " recommendation"
+msgstr[1] " recommendations"
+
+#: buddyboss-inc/recommend-posts.php:521
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: buddyboss-inc/recommend-posts.php:524
+msgid "Recommend"
+msgstr "Recommander"
+
+#: buddyboss-inc/recommend-posts.php:542
+msgid "You Like:"
+msgstr "Vous aimez :"
+
+#: buddyboss-inc/recommend-posts.php:571
+msgid "You do not like anything yet."
+msgstr "Vous n'avez aucune appréciation."
+
+#: buddyboss-inc/theme-functions.php:45
+msgid "Titlebar"
+msgstr "Barre d'Entête"
+
+#: buddyboss-inc/theme-functions.php:46
+msgid "Footer Menu"
+msgstr "Menu du pied de page"
+
+#: buddyboss-inc/theme-functions.php:47 buddypress/activity/post-form.php:46
+msgid "My Profile"
+msgstr "Mon profil"
+
+#: buddyboss-inc/theme-functions.php:53
+msgid "Profile: Extra Links"
+msgstr "Profil : Liens Supplémentaires"
+
+#: buddyboss-inc/theme-functions.php:54
+msgid "Group: Extra Links"
+msgstr "Groupes: liens supplémentaires"
+
+#: buddyboss-inc/theme-functions.php:274 buddypress/activity/index.php:72
+msgid "Show:"
+msgstr "Montrer :"
+
+#: buddyboss-inc/theme-functions.php:275
+msgid "Post in:"
+msgstr "Posté dans:"
+
+#: buddyboss-inc/theme-functions.php:286
+msgid "View as Desktop"
+msgstr "Voir comme un Ordinateur de Table"
+
+#: buddyboss-inc/theme-functions.php:287
+msgid "View as Mobile"
+msgstr "Affichage Mobile"
+
+#: buddyboss-inc/theme-functions.php:288
+msgid "Yes"
+msgstr ""
+
+#: buddyboss-inc/theme-functions.php:289
+msgid "No"
+msgstr ""
+
+#: buddyboss-inc/theme-functions.php:623
+msgid "Page %s"
+msgstr "La page %s"
+
+#: buddyboss-inc/theme-functions.php:801
+msgid "Post navigation"
+msgstr "Poster navigation"
+
+#: buddyboss-inc/theme-functions.php:802
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Les seniors messages"
+
+#: buddyboss-inc/theme-functions.php:803
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Les nouveaux messages <span class=\"meta-nav\">&rarr;</span>"
+
+#: buddyboss-inc/theme-functions.php:1354
+msgid "View Profile"
+msgstr "Voir le profil"
+
+#: buddyboss-inc/theme-functions.php:1391
+msgid "Articles"
+msgstr "Articles"
+
+#: buddyboss-inc/theme-functions.php:1412 template-parts/content-author.php:43
+msgid "Most recommended stories"
+msgstr "Histoires les Plus Recommandées"
+
+#: buddyboss-inc/theme-functions.php:1412 template-parts/content-author.php:44
+msgid "Latest stories"
+msgstr "Derniers articles"
+
+#: buddyboss-inc/theme-functions.php:1485
+msgid "No stories found"
+msgstr "Aucun récit trouvé"
+
+#: buddyboss-inc/theme-functions.php:1625
+msgid "You haven't added any friend connections yet."
+msgstr "Vous n'avez pas encore établi de contact"
+
+#: buddyboss-inc/theme-functions.php:1625
+msgid "%s hasn't created any friend connections yet."
+msgstr "%s n&#39;a pas encore établi de contact"
+
+#: buddyboss-inc/theme-functions.php:1755
+msgid "You don't have any followers yet."
+msgstr "Vous n'avez pas encore des adeptes."
+
+#: buddyboss-inc/theme-functions.php:1755
+msgid "%s doesn't have any followers yet."
+msgstr "%s n'a pas encore d'adepte."
+
+#: buddyboss-inc/theme-functions.php:1757
+msgid "You don't have any following yet."
+msgstr "Vous n'avez pas tout de suite encore."
+
+#: buddyboss-inc/theme-functions.php:1757
+msgid "%s doesn't have any following yet."
+msgstr "%s ne suis personne encore."
+
+#: buddyboss-inc/theme-functions.php:1828
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] "%s réponse"
+msgstr[1] "%s réponses"
+
+#: buddyboss-inc/theme-functions.php:1839
+msgid "%s topic"
+msgid_plural "%s topics"
+msgstr[0] "%s sujet"
+msgstr[1] "%s sujets"
+
+#: buddyboss-inc/theme-functions.php:1848
+msgid ""
+"<span class=\"post-num\">%1$s and %2$s</span> <span class=\"last-activity"
+"\">Last updated by %3$s %4$s</span>"
+msgstr ""
+"<span class=« post-num »>%1$s et %2$s</span> <span class=« last-"
+"activity »>Dernière mise à jour par %3$s %4$s</span>"
+
+#: buddyboss-inc/theme-functions.php:1850
+msgid ""
+"<span class=\"post-num\">%1$s and %2$s</span> <span class=\"last-activity"
+"\">Last updated by %3$s %4$s<span>"
+msgstr ""
+"<span class=« post-num »>%1$s et %2$s</span> <span class=« last-"
+"activity »>Dernière mise à jour par %3$s %4$s<span> </span> </span>"
+
+#: buddyboss-inc/theme-functions.php:1855
+#: buddyboss-inc/theme-functions.php:1857
+msgid ""
+"<span class=\"post-num\">%1$s</span> <span class=\"last-activity\">Last "
+"updated by %2$s %3$s</span>"
+msgstr ""
+"<span class=\"post-num\">%1$s</span> <span class=\"last-activity\">Mis à "
+"jour par %2$s %3$s</span>"
+
+#: buddyboss-inc/theme-functions.php:1867
+#: buddyboss-inc/theme-functions.php:1869
+msgid "<span class=\"post-num\">%1$s and %2$s</span>"
+msgstr "<span class=« post-num »>%1$s et %2$s</span>"
+
+#: buddyboss-inc/theme-functions.php:1876
+#: buddyboss-inc/theme-functions.php:1878
+msgid "<span class=\"post-num\">%1$s</span>"
+msgstr "<span class=\"post-num\">%1$s</span>"
+
+#: buddyboss-inc/theme-functions.php:1881
+msgid "<span class=\"post-num\">0 topics and 0 posts</span>"
+msgstr "<span class=\"post-num\">0 sujets et 0 messages</span>"
+
+#: buddyboss-inc/theme-functions.php:1953
+msgid "%s voice"
+msgid_plural "%s voices"
+msgstr[0] "%s voix"
+msgstr[1] "%s voix"
+
+#: buddyboss-inc/theme-functions.php:1959
+msgid ""
+"<span class=\"post-num\">%1$s, %2$s</span> <span class=\"last-activity"
+"\">Last updated by %3$s %4$s</span>"
+msgstr ""
+"<span class=\"post-num\">%1$s, %2$s</span> <span class=\"last-activity\">Mis "
+"à jour par %3$s %4$s</span>"
+
+#: buddyboss-inc/theme-functions.php:1963
+msgid "<span class=\"post-num\">%1$s, %2$s</span>"
+msgstr "<span class=\"post-num\">%1$s, %2$s</span>"
+
+#: buddyboss-inc/theme-functions.php:1967
+msgid "<span class=\"post-num\">0 replies</span>"
+msgstr "<span class=\"post-num\">0 réponses</span>"
+
+#: buddyboss-inc/theme-functions.php:2360
+msgid "No new notifications"
+msgstr "Aucune notification"
+
+#. translators: 1: date, 2: time
+#: buddyboss-inc/theme-functions.php:2554
+#: buddyboss-inc/theme-functions.php:2834
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: buddyboss-inc/theme-functions.php:2623
+msgid "Notes"
+msgstr "Notes"
+
+#: buddyboss-inc/theme-functions.php:2657
+#: buddyboss-media/groups/single/buddyboss-media-album-edit.php:55
+#: buddyboss-media/members/single/buddyboss-media-album-edit.php:58
+#: template-parts/create-post.php:33
+msgid "Save"
+msgstr "Sauver"
+
+#: buddyboss-inc/theme-functions.php:2661
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Connecté en tant que <a href=“%1$s”>que%2$s.</a>"
+
+#: buddyboss-inc/theme-functions.php:2664
+msgid "Leave a note"
+msgstr "Laissez une note"
+
+#: buddyboss-inc/theme-functions.php:2713
+msgid " min read"
+msgstr " min de lecture"
+
+#: buddyboss-inc/theme-functions.php:2715
+msgid " sec read"
+msgstr " sec. de lecture"
+
+#: buddyboss-inc/theme-functions.php:2741 searchform.php:13
+msgid "Type to Search"
+msgstr "Type de recherche..."
+
+#: buddyboss-inc/theme-functions.php:2805
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: buddyboss-inc/theme-functions.php:2805
+msgid "(Edit)"
+msgstr "(Editer)"
+
+#: buddyboss-inc/theme-functions.php:2831
+msgid "Post author"
+msgstr "Auteur du sujet"
+
+#: buddyboss-inc/theme-functions.php:2840
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: buddyboss-inc/theme-functions.php:2849
+msgid "Reply <span>&darr;</span>"
+msgstr "Répondre"
+
+#: buddyboss-inc/theme-functions.php:3004
+#: buddyboss-inc/theme-functions.php:3054
+#: buddypress/groups/single/admin.php:226
+#: buddypress/groups/single/admin.php:257
+msgid "Profile picture of %s"
+msgstr "Image de profil de %s"
+
+#: buddyboss-inc/theme-functions.php:3011
+msgid "No Admins"
+msgstr "Pas Admins"
+
+#: buddyboss-inc/theme-functions.php:3064
+msgid "No Mods"
+msgstr "Aucun Mods"
+
+#: buddyboss-inc/users-options.php:115 buddyboss-inc/users-options.php:183
+msgid "Social"
+msgstr "Social"
+
+#: buddyboss-media/groups/single/buddyboss-media-album-create.php:12
+#: buddyboss-media/members/single/buddyboss-media-album-create.php:12
+#: buddyboss-media/members/single/buddyboss-media-albums.php:20
+msgid "Create an Album"
+msgstr "Créer un album"
+
+#: buddyboss-media/groups/single/buddyboss-media-album-create.php:19
+#: buddyboss-media/groups/single/buddyboss-media-album-edit.php:25
+#: buddyboss-media/members/single/buddyboss-media-album-create.php:24
+#: buddyboss-media/members/single/buddyboss-media-album-edit.php:25
+msgid "Title (required)"
+msgstr "Titre (requis)"
+
+#: buddyboss-media/groups/single/buddyboss-media-album-create.php:29
+#: buddyboss-media/groups/single/buddyboss-media-album-edit.php:35
+#: buddyboss-media/members/single/buddyboss-media-album-create.php:34
+#: buddyboss-media/members/single/buddyboss-media-album-edit.php:35
+msgid "Visibility (required)"
+msgstr "Visibilité (requis)"
+
+#: buddyboss-media/groups/single/buddyboss-media-album-create.php:50
+#: buddyboss-media/members/single/buddyboss-media-album-create.php:57
+msgid "Create Album"
+msgstr "Créer un album"
+
+#: buddyboss-media/groups/single/buddyboss-media-album-edit.php:14
+#: buddyboss-media/members/single/buddyboss-media-album-edit.php:14
+msgid "Edit Album"
+msgstr "Editer l’Album"
+
+#: buddyboss-media/groups/single/buddyboss-media-album-edit.php:65
+#: buddyboss-media/members/single/buddyboss-media-album-edit.php:68
+#: buddyboss-media/members/single/buddyboss-media-albums.php:83
+msgid "There were no albums found."
+msgstr "Aucun album trouvé"
+
+#: buddyboss-media/members/single/buddyboss-media-album-create.php:38
+#: buddyboss-media/members/single/buddyboss-media-album-edit.php:39
+msgid "Everyone"
+msgstr "Tous"
+
+#: buddyboss-media/members/single/buddyboss-media-album-create.php:39
+#: buddyboss-media/members/single/buddyboss-media-album-edit.php:40
+msgid "Only Me"
+msgstr "Seulement moi"
+
+#: buddyboss-media/members/single/buddyboss-media-album-create.php:40
+#: buddyboss-media/members/single/buddyboss-media-album-edit.php:41
+msgid "Logged In Users"
+msgstr "Usagers Connectés"
+
+#: buddyboss-media/members/single/buddyboss-media-album-create.php:43
+#: buddyboss-media/members/single/buddyboss-media-album-edit.php:45
+msgid "My Friends"
+msgstr "Mes Amis"
+
+#: buddyboss-media/members/single/buddyboss-media-albums.php:12
+msgid "Albums"
+msgstr "Albums"
+
+#. translators: 1: user profile link, 2: user name, 3: activity permalink, 4:
+#. activity timestamp
+#: buddypress/activity/comment.php:29
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <br /><a href=\"%3$s\" class=\"activity-"
+"time-since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+"<a href=\"%1$s\">%2$s</a> repondu <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+
+#: buddypress/activity/comment.php:37 buddypress/activity/entry.php:46
+msgid "Reply"
+msgstr "Répondre"
+
+#: buddypress/activity/entry.php:38
+#: buddypress-global-search/loop/message.php:19
+msgid "View Conversation"
+msgstr "Aficher la discussion"
+
+#: buddypress/activity/entry.php:54
+msgid "Mark as Favorite"
+msgstr "Marquer comme favori"
+
+#: buddypress/activity/entry.php:58
+msgid "Remove Favorite"
+msgstr "Enlever le Favori"
+
+#: buddypress/activity/entry.php:120
+msgid "Post"
+msgstr "Répondre"
+
+#: buddypress/activity/entry.php:120 buddypress/forums/index.php:111
+msgid "Cancel"
+msgstr "Cancel"
+
+#: buddypress/activity/index.php:19
+msgid "The public activity for everyone on this site."
+msgstr "L'activité de tout le monde sur le site."
+
+#: buddypress/activity/index.php:19 buddypress/members/index.php:25
+msgid "All Members <span>%s</span>"
+msgstr "Tous les membres <span>%s</span>"
+
+#: buddypress/activity/index.php:29
+msgid "The activity of my friends only."
+msgstr "L'activité de mes amis seulement."
+
+#: buddypress/activity/index.php:29 buddypress/members/index.php:22
+msgid "My Friends <span>%s</span>"
+msgstr "Mes amis <span>%s</span>"
+
+#: buddypress/activity/index.php:41
+msgid "The activity of groups I am a member of."
+msgstr "L'activité des groupes dont je suis membre."
+
+#: buddypress/activity/index.php:41 buddypress/groups/index.php:24
+msgid "My Groups <span>%s</span>"
+msgstr "Mes groupes <span>%s</span>"
+
+#: buddypress/activity/index.php:51
+msgid "The activity I've marked as a favorite."
+msgstr "L'activité de ce que j'ai marqué comme favori."
+
+#: buddypress/activity/index.php:51
+msgid "My Favorites <span>%s</span>"
+msgstr "Mes favoris <span>%s</span>"
+
+#: buddypress/activity/index.php:59
+msgid "Activity that I have been mentioned in."
+msgstr "Activités où on parle de moi."
+
+#: buddypress/activity/index.php:59
+msgid "Mentions"
+msgstr "Mentions"
+
+#: buddypress/activity/index.php:67
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: buddypress/activity/index.php:67
+msgid "RSS"
+msgstr "RSS"
+
+#: buddypress/activity/index.php:74
+msgid "Everything"
+msgstr "Tout"
+
+#: buddypress/activity/index.php:75
+msgid "Updates"
+msgstr "Mises-à-jour"
+
+#: buddypress/activity/index.php:80
+msgid "Comments"
+msgstr "Commentaires"
+
+#: buddypress/activity/index.php:86
+msgid "Forum Topics"
+msgstr "Sujets du forum"
+
+#: buddypress/activity/index.php:87
+msgid "Forum Replies"
+msgstr "Réponses sur le forum"
+
+#: buddypress/activity/index.php:93
+msgid "New Groups"
+msgstr "Nouveaux groupes"
+
+#: buddypress/activity/index.php:94
+msgid "Group Memberships"
+msgstr "Membres du groupe"
+
+#: buddypress/activity/index.php:100
+msgid "Friendships"
+msgstr "Amitiés"
+
+#: buddypress/activity/index.php:104
+msgid "New Members"
+msgstr "Nouveaux membres"
+
+#: buddypress/activity/post-form.php:30
+msgid "What's new in %s, %s?"
+msgstr "Publier une note dans %s, %s ?"
+
+#: buddypress/activity/post-form.php:32
+msgid "What's new, %s?"
+msgstr "Quoi de neuf, %s ?"
+
+#: buddypress/activity/post-form.php:43
+msgid "Post in"
+msgstr "Poste"
+
+#: buddypress/activity/post-form.php:84
+msgid ""
+"Paste a YouTube, Vimeo, Facebook, Twitter or Instagram link and press Publish"
+msgstr ""
+"Coller un lien YouTube, Vimeo, Facebook, Twitter ou Instagram et appuyez sur "
+"publier"
+
+#: buddypress/activity/post-form.php:91
+msgid "Publish"
+msgstr "Publier"
+
+#: buddypress/blogs/blogs-loop.php:115
+msgid "Sorry, there were no sites found."
+msgstr "Désolé, aucun site n’a été trouvé."
+
+#: buddypress/blogs/index.php:30
+msgid "All Sites <span>%s</span>"
+msgstr "Tous les sites <span>%s</span>"
+
+#: buddypress/blogs/index.php:34
+msgid "My Sites <span>%s</span>"
+msgstr "Mes sites <span>%s</span>"
+
+#: buddypress/blogs/index.php:44 buddypress/forums/index.php:36
+msgid "Order By:"
+msgstr "Ranger par:"
+
+#: buddypress/blogs/index.php:47
+msgid "Newest"
+msgstr "Le plus récent"
+
+#: buddypress/forums/index.php:22
+msgid "All Topics <span>%s</span>"
+msgstr "Tous les sujets <span>%s</span>"
+
+#: buddypress/forums/index.php:26
+msgid "My Topics <span>%s</span>"
+msgstr "Mes sujets <span>%s</span>"
+
+#: buddypress/forums/index.php:39
+msgid "Most Posts"
+msgstr "Le plus de sujets"
+
+#: buddypress/forums/index.php:40
+msgid "Unreplied"
+msgstr "Aucunes réponses"
+
+#: buddypress/forums/index.php:77
+msgid "Create New Topic:"
+msgstr "Créer un nouveau sujet:"
+
+#: buddypress/forums/index.php:84
+msgid "Content:"
+msgstr "Contenu :"
+
+#: buddypress/forums/index.php:87
+msgid "Tags (comma separated):"
+msgstr "Etiquettes (séparées par des virgules):"
+
+#: buddypress/forums/index.php:90
+msgid "Post In Group Forum:"
+msgstr "Publié dans le forum du groupe"
+
+#. translators: no option picked in select box
+#: buddypress/forums/index.php:93
+msgid "----"
+msgstr "----"
+
+#: buddypress/forums/index.php:110
+msgid "Post Topic"
+msgstr "Publier le sujet"
+
+#: buddypress/forums/index.php:122
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"Vous n'êtes membre d'aucun groupe, et vous le pouvez publier dans un aucuns "
+"forums de groupe. Pour publier, trouvez d'abord un groupe qui correspond au "
+"sujet dont vous voulez parler. Si le groupe n'existe pas, pourquoi ne pas <a "
+"href='%s'>créer un nouveau groupe</a> ? Une fois que vous avez rejoint ou "
+"créé un groupe, vous pouvez publier votre sujet dans son forum."
+
+#: buddypress/groups/create.php:55
+msgid "Group Name <sup>*</sup>"
+msgstr "Nom du groupe <sup>*</sup>"
+
+#: buddypress/groups/create.php:56
+#: buddypress/members/single/settings/general.php:15
+#: template-parts/site-login.php:40 welcome-experience/login.php:37
+msgid "Enter"
+msgstr "Entrer"
+
+#: buddypress/groups/create.php:60
+msgid "Group Description <sup>*</sup>"
+msgstr "Description du groupe <sup>*</sup>"
+
+#: buddypress/groups/create.php:78 buddypress/groups/single/admin.php:68
+msgid "Privacy Options"
+msgstr "Options de Confidentialité"
+
+#: buddypress/groups/create.php:81 buddypress/groups/create.php:91
+#: buddypress/groups/create.php:102
+msgid "This is a"
+msgstr "C'est un"
+
+#: buddypress/groups/create.php:81
+msgid "public group"
+msgstr "groupe public"
+
+#: buddypress/groups/create.php:83 buddypress/groups/single/admin.php:75
+msgid "Any site member can join this group."
+msgstr "Tous les membres du site peuvent rejoindre ce groupe."
+
+#: buddypress/groups/create.php:84 buddypress/groups/create.php:95
+#: buddypress/groups/single/admin.php:76 buddypress/groups/single/admin.php:86
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+"Ce groupe va être visible dans la liste de tous les groupes et dans les "
+"résultats de recherche."
+
+#: buddypress/groups/create.php:85 buddypress/groups/single/admin.php:77
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+"Le contenu du groupe et ses activités sera visible à tous les membres du "
+"site."
+
+#: buddypress/groups/create.php:91
+msgid "private group"
+msgstr "Groupe privé"
+
+#: buddypress/groups/create.php:94 buddypress/groups/single/admin.php:85
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Seuls les utilisateurs qui demandent leur inscription et qui sont acceptés "
+"peuvent rejoindre le groupe."
+
+#: buddypress/groups/create.php:96 buddypress/groups/create.php:107
+#: buddypress/groups/single/admin.php:87 buddypress/groups/single/admin.php:97
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"Le contenu du groupe et ses activités ne sera visible que par les membres du "
+"groupe."
+
+#: buddypress/groups/create.php:102
+msgid "hidden group"
+msgstr "groupe masqué"
+
+#: buddypress/groups/create.php:105 buddypress/groups/single/admin.php:95
+msgid "Only users who are invited can join the group."
+msgstr "Seuls les utilisateurs invités peuvent rejoindre ce groupe."
+
+#: buddypress/groups/create.php:106 buddypress/groups/single/admin.php:96
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+"Ce groupe ne sera pas visible dans la liste des groupes et dans les "
+"résultats de recherche."
+
+#: buddypress/groups/create.php:112 buddypress/groups/single/admin.php:104
+msgid "Group Invitations"
+msgstr "Invitations au groupe"
+
+#: buddypress/groups/create.php:114 buddypress/groups/single/admin.php:106
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+"Quels membres de ce groupe ont le droit d'inviter de nouveaux membres ?"
+
+#: buddypress/groups/create.php:119 buddypress/groups/single/admin.php:111
+msgid "All group members"
+msgstr "Tous les membres du groupe"
+
+#: buddypress/groups/create.php:124 buddypress/groups/single/admin.php:116
+msgid "Group admins and mods only"
+msgstr "Groupe pour les admins et les mods seulement"
+
+#: buddypress/groups/create.php:129 buddypress/groups/single/admin.php:121
+msgid "Group admins only"
+msgstr "Groupe pour les admins seulement"
+
+#: buddypress/groups/create.php:135
+msgid "Group Forums"
+msgstr "Forums de groupes"
+
+#: buddypress/groups/create.php:139
+msgid "Should this group have a forum?"
+msgstr "Faut-il installer un forum pour ce groupe ?"
+
+#: buddypress/groups/create.php:142 buddypress/groups/single/admin.php:59
+msgid "Enable discussion forum"
+msgstr "Permettre un forum de discussion"
+
+#: buddypress/groups/create.php:146
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>Administrateur, attention: </strong>Les forums de groupes "
+"requièrent  <a href=\"%s\">une installation correctement configurée</a> de "
+"bbPress."
+
+#: buddypress/groups/create.php:178
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+"Téléchargez une image qui représentera le logo du groupe. L’image apparaîtra "
+"sur la page principale du groupe et dans les résultats de recherche."
+
+#: buddypress/groups/create.php:181
+msgid "Select an image"
+msgstr "Sélectionner une image"
+
+#: buddypress/groups/create.php:183 buddypress/groups/single/admin.php:143
+msgid "Upload Image"
+msgstr "Envoyer une image"
+
+#: buddypress/groups/create.php:187
+msgid ""
+"To skip the group profile photo upload process, hit the \"Next Step\" button."
+msgstr ""
+"Pour passer le processus de téléchargement de photos de profil de groupe, "
+"cliquez sur le bouton « Etape Suivante »."
+
+#: buddypress/groups/create.php:202
+msgid "Crop Group Profile Photo"
+msgstr "Retailler le logo du groupe"
+
+#: buddypress/groups/create.php:204
+msgid "Profile photo to crop"
+msgstr "Logo à retailler"
+
+#: buddypress/groups/create.php:207
+msgid "Profile photo preview"
+msgstr "Prévisualisation du logo du groupe"
+
+#: buddypress/groups/create.php:210 buddypress/groups/single/admin.php:169
+msgid "Crop Image"
+msgstr "Cadrer l'image"
+
+#: buddypress/groups/create.php:248 buddypress/groups/single/admin.php:197
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+"L'image de couverture sera utilisée pour personnaliser l'en-tête de votre "
+"groupe."
+
+#: buddypress/groups/create.php:268 buddypress/groups/create.php:296
+#: buddypress/groups/single/send-invites.php:23
+msgid "Select people to invite from your friends list."
+msgstr "Choisir les personnes à inviter dans votre liste d'amis."
+
+#: buddypress/groups/create.php:314
+#: buddypress/groups/single/send-invites.php:44
+msgid "Remove Invite"
+msgstr "Supprimer l'invitation"
+
+#: buddypress/groups/create.php:331
+#: buddypress/groups/single/send-invites.php:75
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"Une fois que vous aurez un cercle d'amis, vous pourrez les inviter dans "
+"votre groupe."
+
+#: buddypress/groups/create.php:359
+msgid "Previous"
+msgstr "Précédent"
+
+#: buddypress/groups/create.php:366
+msgid "Next Step"
+msgstr "&Eacute;tape suivante"
+
+#: buddypress/groups/create.php:373
+msgid "Create Group and Continue"
+msgstr "Créer le groupe et poursuivre"
+
+#: buddypress/groups/create.php:380
+msgid "Finish"
+msgstr "Terminer"
+
+#: buddypress/groups/groups-loop.php:40
+msgid "Public"
+msgstr "Public"
+
+#: buddypress/groups/groups-loop.php:42
+msgid "Hidden"
+msgstr "Invisible"
+
+#: buddypress/groups/groups-loop.php:44
+msgid "Private"
+msgstr "Privé"
+
+#: buddypress/groups/groups-loop.php:46
+msgid "Group"
+msgstr "Groupe"
+
+#: buddypress/groups/groups-loop.php:112 buddypress/groups/single/admin.php:280
+msgid "Members"
+msgstr "Membres"
+
+#: buddypress/groups/groups-loop.php:166
+msgid "There were no groups found."
+msgstr "Il n'y a aucun groupe trouvé."
+
+#: buddypress/groups/index.php:27
+msgid "All Groups <span>%s</span>"
+msgstr "Tous les groupes <span>%s</span>"
+
+#: buddypress/groups/index.php:31 buddypress/members/index.php:30
+msgid "Order by "
+msgstr "Ordonner par "
+
+#: buddypress/groups/index.php:35 buddypress/members/single/groups.php:29
+msgid "Most Members"
+msgstr "Le plus de membres"
+
+#: buddypress/groups/index.php:36 buddypress/members/single/groups.php:30
+msgid "Newly Created"
+msgstr "Récemment créés"
+
+#: buddypress/groups/single/admin.php:25
+msgid "Group Name (required)"
+msgstr "Nom du groupe (obligatoire)"
+
+#: buddypress/groups/single/admin.php:30
+msgid "Group Description (required)"
+msgstr "Description du groupe (obligatoire)"
+
+#: buddypress/groups/single/admin.php:38
+msgid "Notify group members of these changes via email"
+msgstr "Notifier les membres du groupe de ces changements par mail"
+
+#: buddypress/groups/single/admin.php:73
+msgid "This is a public group"
+msgstr "C'est un groupe public"
+
+#: buddypress/groups/single/admin.php:83
+msgid "This is a private group"
+msgstr "C'est un groupe privé."
+
+#: buddypress/groups/single/admin.php:93
+msgid "This is a hidden group"
+msgstr "C'est un groupe caché"
+
+#: buddypress/groups/single/admin.php:139
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+"Envoyer une image à utiliser comme avatar pour ce groupe. Cette image sera "
+"visible dans la page principale du groupe et dans les résultats de recherche."
+
+#: buddypress/groups/single/admin.php:149
+msgid ""
+"If you'd like to remove the existing avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+"Si vous voulez enlever un avatar existant mais ne pas en envoyer un nouveau, "
+"utiliser le bouton pour supprimer l'avatar."
+
+#: buddypress/groups/single/admin.php:151
+msgid "Delete Avatar"
+msgstr "Supprimer l'avatar"
+
+#: buddypress/groups/single/admin.php:161
+msgid "Crop Avatar"
+msgstr "Cadrer l'avatar"
+
+#: buddypress/groups/single/admin.php:163
+msgid "Avatar to crop"
+msgstr "Avatar à cadrer"
+
+#: buddypress/groups/single/admin.php:166
+msgid "Avatar preview"
+msgstr "Prévisualisation de l'avatar"
+
+#: buddypress/groups/single/admin.php:186
+msgid "Change Cover Image"
+msgstr "Modifier l'image de couverture"
+
+#: buddypress/groups/single/admin.php:218
+msgid "Administrators"
+msgstr "Administrateurs"
+
+#: buddypress/groups/single/admin.php:235
+#: buddypress/groups/single/admin.php:266
+msgid "Demote to Member"
+msgstr "Délaisser à un membre"
+
+#: buddypress/groups/single/admin.php:250
+msgid "Moderators"
+msgstr "Modérateurs"
+
+#: buddypress/groups/single/admin.php:265
+#: buddypress/groups/single/admin.php:326
+msgid "Promote to Admin"
+msgstr "Promouvoir administrateur"
+
+#: buddypress/groups/single/admin.php:311
+msgid "(banned)"
+msgstr "(banni)"
+
+#: buddypress/groups/single/admin.php:320
+msgid "Unban this member"
+msgstr "Ré-intégrer le membre"
+
+#: buddypress/groups/single/admin.php:320
+msgid "Remove Ban"
+msgstr "Ré-intégrer"
+
+#: buddypress/groups/single/admin.php:324
+msgid "Kick and ban this member"
+msgstr "Bannir ce membre"
+
+#: buddypress/groups/single/admin.php:324
+msgid "Kick &amp; Ban"
+msgstr "Pousser à la sortie &amp; Bannir"
+
+#: buddypress/groups/single/admin.php:325
+msgid "Promote to Mod"
+msgstr "Promouvoir comme modérateur"
+
+#: buddypress/groups/single/admin.php:330
+msgid "Remove this member"
+msgstr "Effacer ce membre"
+
+#: buddypress/groups/single/admin.php:330
+msgid "Remove from group"
+msgstr "Effacer du groupe"
+
+#: buddypress/groups/single/admin.php:345
+msgid "This group has no members."
+msgstr "Ce groupe n'a pas de membres."
+
+#: buddypress/groups/single/admin.php:375
+#: buddypress/members/single/groups/invites.php:28
+msgid "Accept"
+msgstr "Accepté"
+
+#: buddypress/groups/single/admin.php:377
+#: buddypress/members/single/groups/invites.php:29
+msgid "Reject"
+msgstr "Refusé"
+
+#: buddypress/groups/single/admin.php:390
+msgid "There are no pending membership requests."
+msgstr "Il n'y a pas de demandes de nouveaux membres en ce moment."
+
+#: buddypress/groups/single/admin.php:407
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"ATTENTION : Supprimer ce groupe effacera complètement TOUT le contenu "
+"associé. Il n'y aura pas de possibilités de récupération, alors réfléchissez "
+"bien à cette décision."
+
+#: buddypress/groups/single/admin.php:414
+msgid "I understand the consequences of deleting this group."
+msgstr "Je comprends les conséquences de supprimer ce groupe."
+
+#: buddypress/groups/single/admin.php:419
+msgid "Delete Group"
+msgstr "Supprimer le groupe"
+
+#: buddypress/groups/single/group-header.php:54
+#: buddypress-global-search/loop/group.php:13
+msgid "active %s"
+msgstr "actif %s"
+
+#: buddypress/groups/single/members.php:127
+msgid "No members were found."
+msgstr "Aucun membre n'a été trouvé."
+
+#: buddypress/groups/single/send-invites.php:62
+msgid "Send Invites"
+msgstr "Envoyer des invitations"
+
+#: buddypress/members/members-loop.php:145
+msgid "Sorry, no members were found."
+msgstr "Désolé, aucun membre n'a été trouvé."
+
+#: buddypress/members/single/groups/invites.php:16
+msgid "%s members"
+msgstr "%s membres"
+
+#: buddypress/members/single/groups/invites.php:43
+msgid "You have no outstanding group invites."
+msgstr "Vous n'avez aucune invitation à un groupe."
+
+#: buddypress/members/single/groups.php:26
+msgid "Order By: "
+msgstr "Trier par :"
+
+#: buddypress/members/single/messages/notices-loop.php:28
+msgid "Sent:"
+msgstr "Envoyé :"
+
+#: buddypress/members/single/messages/notices-loop.php:59
+msgid "Sorry, no notices were found."
+msgstr "Désolé, aucune information n'a été trouvée."
+
+#: buddypress/members/single/messages.php:38
+msgid "Labels"
+msgstr ""
+
+#: buddypress/members/single/messages.php:53
+msgid "Add Label"
+msgstr ""
+
+#: buddypress/members/single/settings/general.php:11
+msgid "Current Password"
+msgstr "Mot de passe actuel"
+
+#: buddypress/members/single/settings/general.php:12
+msgid "Password Lost and Found"
+msgstr "Mot de passe perdu et retrouvé"
+
+#: buddypress/members/single/settings/general.php:12
+msgid "Lost your password?"
+msgstr "MOT DE PASSE"
+
+#: buddypress/members/single/settings/general.php:19
+msgid "Account Email"
+msgstr "Email du compte"
+
+#: buddypress/members/single/settings/general.php:22
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr ""
+"Changer le mot de passe <span>(laisser vide pour ne rien changer)</span>"
+
+#: buddypress/members/single/settings/general.php:23
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+#: buddypress/members/single/settings/general.php:25
+msgid "Repeat New Password"
+msgstr "Répéter le nouveau mot de passe"
+
+#: buddypress-global-search/loop/message.php:5
+msgid "Conversation between"
+msgstr "Conversation entre "
+
+#: buddypress-global-search/loop/message.php:14
+msgid "and you."
+msgstr "et vous."
+
+#: category.php:21
+msgid "Category Archives: %s"
+msgstr "Archives de la catégorie: %s"
+
+#: comments.php:35 comments.php:47
+msgid "Write a response..."
+msgstr "Rédiger une réponse..."
+
+#: comments.php:40
+msgid "Responses"
+msgstr "Réponses"
+
+#: comments.php:48
+msgid "Comment"
+msgstr "Commentaire"
+
+#: comments.php:65
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:66
+msgid "&larr; Older Comments"
+msgstr "&larr; Anciens Commentaires"
+
+#: comments.php:67
+msgid "Newer Comments &rarr;"
+msgstr "Nouveaux commentaires &rarr;"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: functions.php:12
+msgid ""
+"OneSocial cannot find the starter file, should be located at: *wp root*/wp-"
+"content/themes/buddyboss/buddyboss-inc/init.php"
+msgstr ""
+"BuddyBoss ne peut pas trouver la page de départ qui devrait être ici: *wp "
+"root*/wp-content/themes/buddyboss/buddyboss-inc/init.php"
+
+#: image.php:26
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Précédent"
+
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "Suivant &rarr;"
+
+#: index.php:18
+msgid "Toggle Sidebar"
+msgstr "Basculer la barre latérale"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche pour: %s"
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr "Chercher pour:"
+
+#: template-parts/content-ajax.php:14 template-parts/content.php:17
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: template-parts/content-ajax.php:63 template-parts/content-blog.php:39
+#: template-parts/content-profile-blog.php:79 template-parts/content.php:82
+msgid "."
+msgstr "."
+
+#: template-parts/content-author.php:102
+msgid "%s"
+msgstr "%s"
+
+#: template-parts/content-none.php:17
+msgid "No posts to display"
+msgstr "Aucun sujet à montrer"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Prêt à publier votre premier sujet ? <a href=\"%s\">Commencer ici</a>."
+
+#: template-parts/content-none.php:25
+msgid "Nothing Found"
+msgstr "Rien trouvé"
+
+#: template-parts/content-none.php:28
+msgid "Apologies, but no results were found."
+msgstr "Désolé, nous n’avons trouvé aucun résultat."
+
+#: template-parts/content.php:93
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer la lecture <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:104
+msgid "Tagged in"
+msgstr "Etiquettes"
+
+#: template-parts/content.php:134
+msgid "Bookmark"
+msgstr "Marque-pages"
+
+#: template-parts/content.php:199
+msgid "Published in "
+msgstr "Publié dans "
+
+#: template-parts/content.php:201
+msgid " on "
+msgstr "dans"
+
+#: template-parts/create-post.php:17
+msgid "Write here..."
+msgstr "Écrire ici..."
+
+#: template-parts/create-post.php:44
+msgid "Expand to the full-screen editor for more features"
+msgstr "Étendre à l'éditeur plein écran pour plus de fonctionnalités"
+
+#: template-parts/header-dashboard-links.php:6
+msgid "My Sites"
+msgstr "Mes sites"
+
+#: template-parts/header-dashboard-links.php:10
+msgid "Network Admin"
+msgstr "Admin du réseau"
+
+#: template-parts/header-dashboard-links.php:14
+#: template-parts/header-dashboard-links.php:37
+#: template-parts/header-dashboard-links.php:57
+#: template-parts/header-dashboard-links.php:73
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: template-parts/header-dashboard-links.php:15
+#: template-parts/header-dashboard-links.php:38
+#: template-parts/header-dashboard-links.php:61
+#: template-parts/header-dashboard-links.php:77
+msgid "OneSocial Options"
+msgstr "Options de OneSocial"
+
+#: template-parts/header-dashboard-links.php:16
+msgid "Sites"
+msgstr "Sites"
+
+#: template-parts/header-dashboard-links.php:17
+#: template-parts/header-dashboard-links.php:39
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: template-parts/header-dashboard-links.php:18
+#: template-parts/header-dashboard-links.php:40
+#: template-parts/header-dashboard-links.php:66
+#: template-parts/header-dashboard-links.php:82
+msgid "Themes"
+msgstr "Thèmes"
+
+#: template-parts/header-dashboard-links.php:62
+#: template-parts/header-dashboard-links.php:78
+msgid "Customize"
+msgstr "Personnaliser"
+
+#: template-parts/header-dashboard-links.php:63
+#: template-parts/header-dashboard-links.php:79
+msgid "Widgets"
+msgstr "Widgets"
+
+#: template-parts/header-dashboard-links.php:64
+#: template-parts/header-dashboard-links.php:80
+msgid "Menus"
+msgstr "Menus"
+
+#: template-parts/header-mobile.php:18 template-parts/header-mobile.php:21
+#: template-parts/header-user-links.php:15
+#: template-parts/header-user-links.php:24 template-parts/site-login.php:91
+msgid "Login"
+msgstr "Connection"
+
+#: template-parts/header-nav.php:5
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: template-parts/header-user-links.php:59
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: template-parts/header-user-messages.php:34
+msgid "Sent you message"
+msgstr "Message envoyé vous"
+
+#: template-parts/header-user-messages.php:43
+msgid "No unread messages"
+msgstr "Pas de messages non lus"
+
+#: template-parts/site-login.php:36 template-parts/site-register.php:39
+#: welcome-experience/login.php:32 welcome-experience/register.php:32
+msgid "Fill the form"
+msgstr "Remplir le questionnaire"
+
+#: template-parts/site-login.php:50
+msgid "****"
+msgstr "****"
+
+#: template-parts/site-login.php:56 welcome-experience/login.php:51
+msgid "Forgot password?"
+msgstr "J'ai oublié le mot de passe"
+
+#: template-parts/site-login.php:60 template-parts/site-register.php:140
+#: welcome-experience/login.php:56 welcome-experience/register.php:58
+msgid "Sign In"
+msgstr "Connexion"
+
+#: template-parts/site-login.php:66 welcome-experience/login.php:62
+msgid "Not a member?"
+msgstr "Vous n’êtes pas encore membre ?"
+
+#: template-parts/site-login.php:66 welcome-experience/login.php:62
+msgid "Sign Up Now!"
+msgstr "Inscrivez-vous maintenant !"
+
+#: template-parts/site-lost-password.php:23
+#: template-parts/site-lost-password.php:60
+#, fuzzy
+msgid "Lost Password"
+msgstr "Mot de passe"
+
+#: template-parts/site-lost-password.php:24
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: template-parts/site-lost-password.php:37
+#, fuzzy
+msgid "Username or E-mail:"
+msgstr "Entrez un nom d'utilisateur / Email."
+
+#: template-parts/site-lost-password.php:52
+#, fuzzy
+msgid "Reset Password"
+msgstr "Répéter le nouveau mot de passe"
+
+#: template-parts/site-register.php:78 template-parts/site-register.php:99
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: template-parts/site-register.php:87
+msgid "Who can see this field?"
+msgstr ""
+
+#: template-parts/site-register.php:135
+msgid "Register Now"
+msgstr "Inscrivez-vous maintenant"
+
+#: template-parts/site-register.php:140 welcome-experience/register.php:57
+msgid "Already a member?"
+msgstr "Déjà membre ?"
+
+#: template-parts/site-register.php:168
+msgid ""
+"To finish activating your account, check your inbox for our Welcome message "
+"and confirm your email address."
+msgstr ""
+"Pour terminer l'activation de votre compte, vérifiez votre boîte de "
+"réception pour notre message de bienvenue et confirmez votre adresse email."
+
+#: template-parts/site-register.php:170
+msgid "Okay"
+msgstr "OK"
+
+#: welcome-experience/login.php:44
+msgid "*****"
+msgstr "*****"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.buddyboss.com/product/onesocial-theme/"
+msgstr "http://www.buddyboss.com/product/onesocial-theme/"
+
+#. Description of the plugin/theme
+msgid ""
+"OneSocial is a responsive WordPress/BuddyPress theme that focuses on "
+"simplicity and ease of use."
+msgstr ""
+"OneSocial est un thème WordPress/BuddyPress réactif qui met l'accent sur la "
+"simplicité et la facilité d'utilisation."
+
+#. Author of the plugin/theme
+msgid "BuddyBoss.com"
+msgstr "BuddyBoss.com"
+
+#. Author URI of the plugin/theme
+msgid "http://www.buddyboss.com"
+msgstr "http://www.buddyboss.com"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Content"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "Home Page Template"
+msgstr "Diaporama d'Accueil"
+
+#: buddyboss-inc/buddyboss-framework/admin/ReduxCore/inc/welcome/views/status_report.php:553
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: buddypress/activity/index.php:59
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s nouveau"
+msgstr[1] "%s nouveaux"
+
+#: template-parts/site-register.php:82
+#, fuzzy
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr "Enregistrer les modifications"
+
+#~ msgid "Star"
+#~ msgstr "Étoile"
+
+#, fuzzy
+#~ msgid "Registering as a vendor."
+#~ msgstr "Remplacement sur la page d'Inscription"
+
+#~ msgid "Welcome to "
+#~ msgstr "Bienvenue à"

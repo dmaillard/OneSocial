@@ -1,0 +1,17 @@
+<wpml-config>
+    <admin-texts>
+        <key name="onesocial_options">
+            <key name="boss_logo" />
+            <key name="boss_mobile_logo" />
+            <key name="boss_slides" />
+            <key name="boss_copyright" />
+            <key name="login_form_title" />
+            <key name="login_form_description" />
+            <key name="boss_login_message" />
+            <key name="register_form_title" />
+            <key name="register_form_description" />
+            <key name="reset_password_title" />
+            <key name="reset_password_description" />
+        </key>
+    </admin-texts>
+</wpml-config>
